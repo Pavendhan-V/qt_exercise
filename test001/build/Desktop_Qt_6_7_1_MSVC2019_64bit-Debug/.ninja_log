@@ -1,0 +1,114 @@
+# ninja log v6
+54	172	7532126125469405	test001/Main.qml	b5e6488b2ea219d2
+54	172	7532126125469405	C:/Users/Pavendhan V/Desktop/qt_exercise/test001/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test001/Main.qml	b5e6488b2ea219d2
+70	331	7532126127209377	.qt/qml_imports/apptest001_build.cmake	cb97b63c15b4cbe6
+70	331	7532126127209377	C:/Users/Pavendhan V/Desktop/qt_exercise/test001/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/qml_imports/apptest001_build.cmake	cb97b63c15b4cbe6
+331	709	7532126128929348	apptest001_autogen/timestamp	2cf32f2e784c3686
+331	709	7532126128929348	apptest001_autogen/mocs_compilation.cpp	2cf32f2e784c3686
+331	709	7532126128929348	C:/Users/Pavendhan V/Desktop/qt_exercise/test001/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/apptest001_autogen/timestamp	2cf32f2e784c3686
+331	709	7532126128929348	C:/Users/Pavendhan V/Desktop/qt_exercise/test001/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/apptest001_autogen/mocs_compilation.cpp	2cf32f2e784c3686
+710	1040	7532126133659343	meta_types/apptest001_json_file_list.txt	29d10d027e89ccf9
+710	1040	7532126133659343	meta_types/apptest001_json_file_list.txt.timestamp	29d10d027e89ccf9
+710	1040	7532126133659343	C:/Users/Pavendhan V/Desktop/qt_exercise/test001/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/meta_types/apptest001_json_file_list.txt	29d10d027e89ccf9
+710	1040	7532126133659343	C:/Users/Pavendhan V/Desktop/qt_exercise/test001/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/meta_types/apptest001_json_file_list.txt.timestamp	29d10d027e89ccf9
+724	1072	7532126133739360	.qt/rcc/qrc_qmake_test001.cpp	4f45bce136c898e7
+724	1072	7532126133739360	C:/Users/Pavendhan V/Desktop/qt_exercise/test001/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_qmake_test001.cpp	4f45bce136c898e7
+761	1182	7532126134279380	.qt/rcc/qrc_apptest001_raw_qml_0.cpp	ffb4e6cddaa2343c
+761	1182	7532126134279380	C:/Users/Pavendhan V/Desktop/qt_exercise/test001/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest001_raw_qml_0.cpp	ffb4e6cddaa2343c
+741	1323	7532126136279335	.rcc/qmlcache/apptest001_qmlcache_loader.cpp	ffb649bd2172b814
+741	1323	7532126136279335	C:/Users/Pavendhan V/Desktop/qt_exercise/test001/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest001_qmlcache_loader.cpp	ffb649bd2172b814
+1041	1359	7532126137479350	meta_types/qt6apptest001_debug_metatypes.json.gen	c11d2636a456cd70
+1041	1359	7532126137479350	meta_types/qt6apptest001_debug_metatypes.json	c11d2636a456cd70
+1041	1359	7532126137479350	C:/Users/Pavendhan V/Desktop/qt_exercise/test001/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/meta_types/qt6apptest001_debug_metatypes.json.gen	c11d2636a456cd70
+1041	1359	7532126137479350	C:/Users/Pavendhan V/Desktop/qt_exercise/test001/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/meta_types/qt6apptest001_debug_metatypes.json	c11d2636a456cd70
+1359	2246	7532126142339344	apptest001_qmltyperegistrations.cpp	4c191130148455e9
+1359	2246	7532126142339344	test001/apptest001.qmltypes	4c191130148455e9
+1359	2246	7532126142339344	C:/Users/Pavendhan V/Desktop/qt_exercise/test001/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/apptest001_qmltyperegistrations.cpp	4c191130148455e9
+1359	2246	7532126142339344	C:/Users/Pavendhan V/Desktop/qt_exercise/test001/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test001/apptest001.qmltypes	4c191130148455e9
+2247	2873	7532126152219349	.rcc/qmlcache/apptest001_Main_qml.cpp	4ba07dfd8a7deb44
+2247	2873	7532126152219349	C:/Users/Pavendhan V/Desktop/qt_exercise/test001/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest001_Main_qml.cpp	4ba07dfd8a7deb44
+2873	3262	7532126152769348	CMakeFiles/apptest001.dir/apptest001_autogen/mocs_compilation.cpp.obj	e8d37f84c1ea8a69
+2924	3301	7532126153269350	CMakeFiles/apptest001.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_qmake_test001.cpp.obj	7fe974118e89bff0
+3263	3550	7532126156669338	CMakeFiles/apptest001.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest001_raw_qml_0.cpp.obj	e67e3c40b643850f
+2903	9526	7532126153059360	CMakeFiles/apptest001.dir/apptest001_qmltyperegistrations.cpp.obj	837f6f046ae45b2
+2972	9595	7532126153749347	CMakeFiles/apptest001.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest001_Main_qml.cpp.obj	1a2a07f541aaa7c
+2885	9993	7532126152879373	CMakeFiles/apptest001.dir/main.cpp.obj	28487f2718168572
+2941	10923	7532126153439356	CMakeFiles/apptest001.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest001_qmlcache_loader.cpp.obj	705da4fd36c95fcc
+10924	11799	7532126233269322	apptest001.exe	f34904bca59082ad
+100	263	7532127067508995	test001/Main.qml	b5e6488b2ea219d2
+100	263	7532127067508995	C:/Users/Pavendhan V/Desktop/qt_exercise/test001/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test001/Main.qml	b5e6488b2ea219d2
+115	552	7532127070468990	.qt/qml_imports/apptest001_build.cmake	cb97b63c15b4cbe6
+115	552	7532127070468990	C:/Users/Pavendhan V/Desktop/qt_exercise/test001/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/qml_imports/apptest001_build.cmake	cb97b63c15b4cbe6
+582	735	7532127072349006	.qt/rcc/qrc_apptest001_raw_qml_0.cpp	ffb4e6cddaa2343c
+582	735	7532127072349006	C:/Users/Pavendhan V/Desktop/qt_exercise/test001/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest001_raw_qml_0.cpp	ffb4e6cddaa2343c
+553	990	7532127074638991	.rcc/qmlcache/apptest001_Main_qml.cpp	4ba07dfd8a7deb44
+553	990	7532127074638991	C:/Users/Pavendhan V/Desktop/qt_exercise/test001/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest001_Main_qml.cpp	4ba07dfd8a7deb44
+1000	1154	7532127075169003	CMakeFiles/apptest001.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest001_raw_qml_0.cpp.obj	e67e3c40b643850f
+990	7065	7532127075059005	CMakeFiles/apptest001.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest001_Main_qml.cpp.obj	1a2a07f541aaa7c
+7066	7826	7532127135828982	apptest001.exe	f34904bca59082ad
+106	300	7532127389163355	test001/Main.qml	b5e6488b2ea219d2
+106	300	7532127389163355	C:/Users/Pavendhan V/Desktop/qt_exercise/test001/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test001/Main.qml	b5e6488b2ea219d2
+124	621	7532127392513370	.qt/qml_imports/apptest001_build.cmake	cb97b63c15b4cbe6
+124	621	7532127392513370	C:/Users/Pavendhan V/Desktop/qt_exercise/test001/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/qml_imports/apptest001_build.cmake	cb97b63c15b4cbe6
+639	787	7532127394003622	.qt/rcc/qrc_apptest001_raw_qml_0.cpp	ffb4e6cddaa2343c
+639	787	7532127394003622	C:/Users/Pavendhan V/Desktop/qt_exercise/test001/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest001_raw_qml_0.cpp	ffb4e6cddaa2343c
+622	1044	7532127396503365	.rcc/qmlcache/apptest001_Main_qml.cpp	4ba07dfd8a7deb44
+622	1044	7532127396503365	C:/Users/Pavendhan V/Desktop/qt_exercise/test001/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest001_Main_qml.cpp	4ba07dfd8a7deb44
+1054	1250	7532127396993347	CMakeFiles/apptest001.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest001_raw_qml_0.cpp.obj	e67e3c40b643850f
+1045	6570	7532127396903344	CMakeFiles/apptest001.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest001_Main_qml.cpp.obj	1a2a07f541aaa7c
+6570	6992	7532127452153319	apptest001.exe	f34904bca59082ad
+86	226	7532130511526708	test001/Main.qml	b5e6488b2ea219d2
+86	226	7532130511526708	C:/Users/Pavendhan V/Desktop/qt_exercise/test001/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test001/Main.qml	b5e6488b2ea219d2
+102	547	7532130514806747	.qt/qml_imports/apptest001_build.cmake	cb97b63c15b4cbe6
+102	547	7532130514806747	C:/Users/Pavendhan V/Desktop/qt_exercise/test001/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/qml_imports/apptest001_build.cmake	cb97b63c15b4cbe6
+564	680	7532130516146720	.qt/rcc/qrc_apptest001_raw_qml_0.cpp	ffb4e6cddaa2343c
+564	680	7532130516146720	C:/Users/Pavendhan V/Desktop/qt_exercise/test001/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest001_raw_qml_0.cpp	ffb4e6cddaa2343c
+547	930	7532130518376683	.rcc/qmlcache/apptest001_Main_qml.cpp	4ba07dfd8a7deb44
+547	930	7532130518376683	C:/Users/Pavendhan V/Desktop/qt_exercise/test001/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest001_Main_qml.cpp	4ba07dfd8a7deb44
+943	1110	7532130518916706	CMakeFiles/apptest001.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest001_raw_qml_0.cpp.obj	e67e3c40b643850f
+930	5570	7532130518786703	CMakeFiles/apptest001.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest001_Main_qml.cpp.obj	1a2a07f541aaa7c
+5571	6055	7532130565186675	apptest001.exe	f34904bca59082ad
+97	214	7532131022760798	test001/Main.qml	b5e6488b2ea219d2
+97	214	7532131022760798	C:/Users/Pavendhan V/Desktop/qt_exercise/test001/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test001/Main.qml	b5e6488b2ea219d2
+110	478	7532131025630772	.qt/qml_imports/apptest001_build.cmake	cb97b63c15b4cbe6
+110	478	7532131025630772	C:/Users/Pavendhan V/Desktop/qt_exercise/test001/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/qml_imports/apptest001_build.cmake	cb97b63c15b4cbe6
+493	587	7532131026750803	.qt/rcc/qrc_apptest001_raw_qml_0.cpp	ffb4e6cddaa2343c
+493	587	7532131026750803	C:/Users/Pavendhan V/Desktop/qt_exercise/test001/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest001_raw_qml_0.cpp	ffb4e6cddaa2343c
+478	764	7532131028340781	.rcc/qmlcache/apptest001_Main_qml.cpp	4ba07dfd8a7deb44
+478	764	7532131028340781	C:/Users/Pavendhan V/Desktop/qt_exercise/test001/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest001_Main_qml.cpp	4ba07dfd8a7deb44
+772	901	7532131028710782	CMakeFiles/apptest001.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest001_raw_qml_0.cpp.obj	e67e3c40b643850f
+764	5008	7532131028630787	CMakeFiles/apptest001.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest001_Main_qml.cpp.obj	1a2a07f541aaa7c
+5008	5389	7532131071070804	apptest001.exe	f34904bca59082ad
+104	254	7532131734928670	test001/Main.qml	b5e6488b2ea219d2
+104	254	7532131734928670	C:/Users/Pavendhan V/Desktop/qt_exercise/test001/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test001/Main.qml	b5e6488b2ea219d2
+120	573	7532131738158731	.qt/qml_imports/apptest001_build.cmake	cb97b63c15b4cbe6
+120	573	7532131738158731	C:/Users/Pavendhan V/Desktop/qt_exercise/test001/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/qml_imports/apptest001_build.cmake	cb97b63c15b4cbe6
+589	718	7532131739618679	.qt/rcc/qrc_apptest001_raw_qml_0.cpp	ffb4e6cddaa2343c
+589	718	7532131739618679	C:/Users/Pavendhan V/Desktop/qt_exercise/test001/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest001_raw_qml_0.cpp	ffb4e6cddaa2343c
+573	925	7532131741528665	.rcc/qmlcache/apptest001_Main_qml.cpp	4ba07dfd8a7deb44
+573	925	7532131741528665	C:/Users/Pavendhan V/Desktop/qt_exercise/test001/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest001_Main_qml.cpp	4ba07dfd8a7deb44
+934	1065	7532131741918671	CMakeFiles/apptest001.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest001_raw_qml_0.cpp.obj	e67e3c40b643850f
+926	5864	7532131741838671	CMakeFiles/apptest001.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest001_Main_qml.cpp.obj	1a2a07f541aaa7c
+5864	6329	7532131791228657	apptest001.exe	f34904bca59082ad
+110	527	7532134346009854	test001/Main.qml	b5e6488b2ea219d2
+110	527	7532134346009854	C:/Users/Pavendhan V/Desktop/qt_exercise/test001/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test001/Main.qml	b5e6488b2ea219d2
+134	1261	7532134353649880	.qt/qml_imports/apptest001_build.cmake	cb97b63c15b4cbe6
+134	1261	7532134353649880	C:/Users/Pavendhan V/Desktop/qt_exercise/test001/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/qml_imports/apptest001_build.cmake	cb97b63c15b4cbe6
+1292	1573	7532134356269864	.qt/rcc/qrc_apptest001_raw_qml_0.cpp	ffb4e6cddaa2343c
+1292	1573	7532134356269864	C:/Users/Pavendhan V/Desktop/qt_exercise/test001/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest001_raw_qml_0.cpp	ffb4e6cddaa2343c
+1261	1911	7532134360419849	.rcc/qmlcache/apptest001_Main_qml.cpp	4ba07dfd8a7deb44
+1261	1911	7532134360419849	C:/Users/Pavendhan V/Desktop/qt_exercise/test001/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest001_Main_qml.cpp	4ba07dfd8a7deb44
+1928	2069	7532134360909866	CMakeFiles/apptest001.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest001_raw_qml_0.cpp.obj	e67e3c40b643850f
+1911	6215	7532134360739920	CMakeFiles/apptest001.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest001_Main_qml.cpp.obj	1a2a07f541aaa7c
+6216	6681	7532134403795082	apptest001.exe	f34904bca59082ad
+104	216	7532134814835315	test001/Main.qml	b5e6488b2ea219d2
+104	216	7532134814835315	C:/Users/Pavendhan V/Desktop/qt_exercise/test001/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test001/Main.qml	b5e6488b2ea219d2
+117	4253	7532134855441990	.qt/qml_imports/apptest001_build.cmake	cb97b63c15b4cbe6
+117	4253	7532134855441990	C:/Users/Pavendhan V/Desktop/qt_exercise/test001/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/qml_imports/apptest001_build.cmake	cb97b63c15b4cbe6
+4268	4365	7532134856551930	.qt/rcc/qrc_apptest001_raw_qml_0.cpp	ffb4e6cddaa2343c
+4268	4365	7532134856551930	C:/Users/Pavendhan V/Desktop/qt_exercise/test001/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest001_raw_qml_0.cpp	ffb4e6cddaa2343c
+4254	4842	7532134861205249	.rcc/qmlcache/apptest001_Main_qml.cpp	4ba07dfd8a7deb44
+4254	4842	7532134861205249	C:/Users/Pavendhan V/Desktop/qt_exercise/test001/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest001_Main_qml.cpp	4ba07dfd8a7deb44
+4849	4974	7532134861525258	CMakeFiles/apptest001.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest001_raw_qml_0.cpp.obj	e67e3c40b643850f
+4842	8331	7532134861455279	CMakeFiles/apptest001.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest001_Main_qml.cpp.obj	1a2a07f541aaa7c
+8331	8694	7532134896345256	apptest001.exe	f34904bca59082ad

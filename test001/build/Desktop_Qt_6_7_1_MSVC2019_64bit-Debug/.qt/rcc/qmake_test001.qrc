@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/test001">
+    <file alias="qmldir">C:/Users/Pavendhan V/Desktop/qt_exercise/test001/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test001/qmldir</file>
+  </qresource>
+</RCC>
+
