@@ -1,0 +1,5 @@
+module test005_groupbox_control
+typeinfo apptest005_groupbox_control.qmltypes
+prefer :/test005_groupbox_control/
+Main 1.0 Main.qml
+

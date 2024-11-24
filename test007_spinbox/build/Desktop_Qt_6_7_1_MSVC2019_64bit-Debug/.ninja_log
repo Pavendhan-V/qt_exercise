@@ -1,0 +1,81 @@
+# ninja log v6
+2635	3297	7533854169709829	C:/Users/Pavendhan V/Desktop/qt_exercise/test007_spinbox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_qmake_test007_spinbox.cpp	b1cbbb512e2da9d2
+69	170	7533882136804763	test007_spinbox/Main.qml	ee167c2d9c40bbba
+1414	2605	7533854159243521	C:/Users/Pavendhan V/Desktop/qt_exercise/test007_spinbox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/apptest007_spinbox_autogen/timestamp	2c9637d5f68408eb
+69	170	7533882136804763	C:/Users/Pavendhan V/Desktop/qt_exercise/test007_spinbox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test007_spinbox/Main.qml	ee167c2d9c40bbba
+81	402	7533882139134439	C:/Users/Pavendhan V/Desktop/qt_exercise/test007_spinbox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/qml_imports/apptest007_spinbox_build.cmake	dbbf013464cfcf3f
+3332	4687	7533854183491139	meta_types/qt6apptest007_spinbox_debug_metatypes.json	3d7adf5a2ece8732
+81	402	7533882139134439	.qt/qml_imports/apptest007_spinbox_build.cmake	dbbf013464cfcf3f
+1414	2605	7533854159243521	C:/Users/Pavendhan V/Desktop/qt_exercise/test007_spinbox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/apptest007_spinbox_autogen/mocs_compilation.cpp	2c9637d5f68408eb
+1414	2605	7533854159243521	apptest007_spinbox_autogen/timestamp	2c9637d5f68408eb
+1414	2605	7533854159243521	apptest007_spinbox_autogen/mocs_compilation.cpp	2c9637d5f68408eb
+414	501	7533882140144425	.qt/rcc/qrc_apptest007_spinbox_raw_qml_0.cpp	618565bc874dbeff
+661	4631	7533882141834414	CMakeFiles/apptest007_spinbox.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest007_spinbox_Main_qml.cpp.obj	327e042c7b1b41ce
+414	501	7533882140144425	C:/Users/Pavendhan V/Desktop/qt_exercise/test007_spinbox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest007_spinbox_raw_qml_0.cpp	618565bc874dbeff
+2671	3289	7533854169259825	.rcc/qmlcache/apptest007_spinbox_qmlcache_loader.cpp	8aaf9ca6a2a2014
+8309	8948	7533854221299853	CMakeFiles/apptest007_spinbox.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_qmake_test007_spinbox.cpp.obj	f9934bc045d4e7bb
+2671	3289	7533854169259825	C:/Users/Pavendhan V/Desktop/qt_exercise/test007_spinbox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest007_spinbox_qmlcache_loader.cpp	8aaf9ca6a2a2014
+2635	3297	7533854169709829	.qt/rcc/qrc_qmake_test007_spinbox.cpp	b1cbbb512e2da9d2
+3332	4687	7533854183491139	C:/Users/Pavendhan V/Desktop/qt_exercise/test007_spinbox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/meta_types/qt6apptest007_spinbox_debug_metatypes.json.gen	3d7adf5a2ece8732
+2611	3332	7533854170520068	meta_types/apptest007_spinbox_json_file_list.txt	c2c1a2ee8a75749f
+402	660	7533882141564393	.rcc/qmlcache/apptest007_spinbox_Main_qml.cpp	dbefc8466a0bef7c
+2611	3332	7533854170520068	meta_types/apptest007_spinbox_json_file_list.txt.timestamp	c2c1a2ee8a75749f
+2611	3332	7533854170520068	C:/Users/Pavendhan V/Desktop/qt_exercise/test007_spinbox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/meta_types/apptest007_spinbox_json_file_list.txt	c2c1a2ee8a75749f
+2611	3332	7533854170520068	C:/Users/Pavendhan V/Desktop/qt_exercise/test007_spinbox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/meta_types/apptest007_spinbox_json_file_list.txt.timestamp	c2c1a2ee8a75749f
+3332	4687	7533854183491139	meta_types/qt6apptest007_spinbox_debug_metatypes.json.gen	3d7adf5a2ece8732
+3332	4687	7533854183491139	C:/Users/Pavendhan V/Desktop/qt_exercise/test007_spinbox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/meta_types/qt6apptest007_spinbox_debug_metatypes.json	3d7adf5a2ece8732
+4688	6707	7533854195136538	apptest007_spinbox_qmltyperegistrations.cpp	f0851092d37064b7
+4688	6707	7533854195136538	test007_spinbox/apptest007_spinbox.qmltypes	f0851092d37064b7
+4688	6707	7533854195136538	C:/Users/Pavendhan V/Desktop/qt_exercise/test007_spinbox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/apptest007_spinbox_qmltyperegistrations.cpp	f0851092d37064b7
+4688	6707	7533854195136538	C:/Users/Pavendhan V/Desktop/qt_exercise/test007_spinbox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test007_spinbox/apptest007_spinbox.qmltypes	f0851092d37064b7
+4632	4951	7533882181544556	apptest007_spinbox.exe	4bda750fbd38404d
+402	660	7533882141564393	C:/Users/Pavendhan V/Desktop/qt_exercise/test007_spinbox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest007_spinbox_Main_qml.cpp	dbefc8466a0bef7c
+8147	8834	7533854219679814	CMakeFiles/apptest007_spinbox.dir/apptest007_spinbox_autogen/mocs_compilation.cpp.obj	297c169b632c274a
+8381	18853	7533854222009806	CMakeFiles/apptest007_spinbox.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest007_spinbox_qmlcache_loader.cpp.obj	8efa5a7811b8930e
+667	1314	7533882141904466	CMakeFiles/apptest007_spinbox.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest007_spinbox_raw_qml_0.cpp.obj	ec84f6fd81ef707d
+8252	17095	7533854220719818	CMakeFiles/apptest007_spinbox.dir/apptest007_spinbox_qmltyperegistrations.cpp.obj	3c3751e58d5ebab6
+8188	17536	7533854220079825	CMakeFiles/apptest007_spinbox.dir/main.cpp.obj	41397515ccc200f6
+75	169	7533882496770621	test007_spinbox/Main.qml	ee167c2d9c40bbba
+75	169	7533882496770621	C:/Users/Pavendhan V/Desktop/qt_exercise/test007_spinbox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test007_spinbox/Main.qml	ee167c2d9c40bbba
+86	396	7533882499160611	.qt/qml_imports/apptest007_spinbox_build.cmake	dbbf013464cfcf3f
+86	396	7533882499160611	C:/Users/Pavendhan V/Desktop/qt_exercise/test007_spinbox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/qml_imports/apptest007_spinbox_build.cmake	dbbf013464cfcf3f
+408	480	7533882500020608	.qt/rcc/qrc_apptest007_spinbox_raw_qml_0.cpp	618565bc874dbeff
+408	480	7533882500020608	C:/Users/Pavendhan V/Desktop/qt_exercise/test007_spinbox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest007_spinbox_raw_qml_0.cpp	618565bc874dbeff
+396	643	7533882501470552	.rcc/qmlcache/apptest007_spinbox_Main_qml.cpp	dbefc8466a0bef7c
+396	643	7533882501470552	C:/Users/Pavendhan V/Desktop/qt_exercise/test007_spinbox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest007_spinbox_Main_qml.cpp	dbefc8466a0bef7c
+650	1249	7533882501820651	CMakeFiles/apptest007_spinbox.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest007_spinbox_raw_qml_0.cpp.obj	ec84f6fd81ef707d
+644	4386	7533882501760604	CMakeFiles/apptest007_spinbox.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest007_spinbox_Main_qml.cpp.obj	327e042c7b1b41ce
+4387	4700	7533882539190578	apptest007_spinbox.exe	4bda750fbd38404d
+69	163	7533883323410335	test007_spinbox/Main.qml	ee167c2d9c40bbba
+69	163	7533883323410335	C:/Users/Pavendhan V/Desktop/qt_exercise/test007_spinbox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test007_spinbox/Main.qml	ee167c2d9c40bbba
+81	416	7533883326080313	.qt/qml_imports/apptest007_spinbox_build.cmake	dbbf013464cfcf3f
+81	416	7533883326080313	C:/Users/Pavendhan V/Desktop/qt_exercise/test007_spinbox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/qml_imports/apptest007_spinbox_build.cmake	dbbf013464cfcf3f
+429	504	7533883326970327	.qt/rcc/qrc_apptest007_spinbox_raw_qml_0.cpp	618565bc874dbeff
+429	504	7533883326970327	C:/Users/Pavendhan V/Desktop/qt_exercise/test007_spinbox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest007_spinbox_raw_qml_0.cpp	618565bc874dbeff
+416	657	7533883328340307	.rcc/qmlcache/apptest007_spinbox_Main_qml.cpp	dbefc8466a0bef7c
+416	657	7533883328340307	C:/Users/Pavendhan V/Desktop/qt_exercise/test007_spinbox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest007_spinbox_Main_qml.cpp	dbefc8466a0bef7c
+665	1273	7533883328700309	CMakeFiles/apptest007_spinbox.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest007_spinbox_raw_qml_0.cpp.obj	ec84f6fd81ef707d
+658	4406	7533883328630317	CMakeFiles/apptest007_spinbox.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest007_spinbox_Main_qml.cpp.obj	327e042c7b1b41ce
+4407	4726	7533883366120301	apptest007_spinbox.exe	4bda750fbd38404d
+76	178	7533883654939350	test007_spinbox/Main.qml	ee167c2d9c40bbba
+76	178	7533883654939350	C:/Users/Pavendhan V/Desktop/qt_exercise/test007_spinbox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test007_spinbox/Main.qml	ee167c2d9c40bbba
+88	417	7533883657499391	.qt/qml_imports/apptest007_spinbox_build.cmake	dbbf013464cfcf3f
+88	417	7533883657499391	C:/Users/Pavendhan V/Desktop/qt_exercise/test007_spinbox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/qml_imports/apptest007_spinbox_build.cmake	dbbf013464cfcf3f
+429	525	7533883658559358	.qt/rcc/qrc_apptest007_spinbox_raw_qml_0.cpp	618565bc874dbeff
+429	525	7533883658559358	C:/Users/Pavendhan V/Desktop/qt_exercise/test007_spinbox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest007_spinbox_raw_qml_0.cpp	618565bc874dbeff
+417	686	7533883660039346	.rcc/qmlcache/apptest007_spinbox_Main_qml.cpp	dbefc8466a0bef7c
+417	686	7533883660039346	C:/Users/Pavendhan V/Desktop/qt_exercise/test007_spinbox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest007_spinbox_Main_qml.cpp	dbefc8466a0bef7c
+693	1695	7533883660389315	CMakeFiles/apptest007_spinbox.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest007_spinbox_raw_qml_0.cpp.obj	ec84f6fd81ef707d
+687	4456	7533883660329380	CMakeFiles/apptest007_spinbox.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest007_spinbox_Main_qml.cpp.obj	327e042c7b1b41ce
+4457	4758	7533883698029357	apptest007_spinbox.exe	4bda750fbd38404d
+72	179	7533884055021089	test007_spinbox/Main.qml	ee167c2d9c40bbba
+72	179	7533884055021089	C:/Users/Pavendhan V/Desktop/qt_exercise/test007_spinbox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test007_spinbox/Main.qml	ee167c2d9c40bbba
+84	417	7533884057551101	.qt/qml_imports/apptest007_spinbox_build.cmake	dbbf013464cfcf3f
+84	417	7533884057551101	C:/Users/Pavendhan V/Desktop/qt_exercise/test007_spinbox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/qml_imports/apptest007_spinbox_build.cmake	dbbf013464cfcf3f
+429	511	7533884058491103	.qt/rcc/qrc_apptest007_spinbox_raw_qml_0.cpp	618565bc874dbeff
+429	511	7533884058491103	C:/Users/Pavendhan V/Desktop/qt_exercise/test007_spinbox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest007_spinbox_raw_qml_0.cpp	618565bc874dbeff
+417	674	7533884059961070	.rcc/qmlcache/apptest007_spinbox_Main_qml.cpp	dbefc8466a0bef7c
+417	674	7533884059961070	C:/Users/Pavendhan V/Desktop/qt_exercise/test007_spinbox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest007_spinbox_Main_qml.cpp	dbefc8466a0bef7c
+682	1272	7533884060321072	CMakeFiles/apptest007_spinbox.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest007_spinbox_raw_qml_0.cpp.obj	ec84f6fd81ef707d
+675	4331	7533884060251105	CMakeFiles/apptest007_spinbox.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest007_spinbox_Main_qml.cpp.obj	327e042c7b1b41ce
+4332	4645	7533884096821082	apptest007_spinbox.exe	4bda750fbd38404d

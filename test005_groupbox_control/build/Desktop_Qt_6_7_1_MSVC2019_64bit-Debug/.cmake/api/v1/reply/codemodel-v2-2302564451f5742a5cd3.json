@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-be87755a63e46b8ade3c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "test005_groupbox_control",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-8c96eb10878232bfef3d.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-13eee11a312c1647358b.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-143419dda05d9b6b729e.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-a8e3e53cf6cb5fdc1f1a.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apptest005_groupbox_control::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apptest005_groupbox_control-Debug-7df56e708ce67e8ac4cb.json",
+					"name" : "apptest005_groupbox_control",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apptest005_groupbox_control_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apptest005_groupbox_control_autogen-Debug-612a2413b851d70701c3.json",
+					"name" : "apptest005_groupbox_control_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apptest005_groupbox_control_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apptest005_groupbox_control_autogen_timestamp_deps-Debug-0e7683c0d04275472c15.json",
+					"name" : "apptest005_groupbox_control_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apptest005_groupbox_control_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apptest005_groupbox_control_qmlimportscan-Debug-7e6721b3dd095a2edccb.json",
+					"name" : "apptest005_groupbox_control_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apptest005_groupbox_control_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apptest005_groupbox_control_qmllint-Debug-1d218d3df8e2d767566e.json",
+					"name" : "apptest005_groupbox_control_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apptest005_groupbox_control_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apptest005_groupbox_control_qmllint_json-Debug-048439908b3c8ae556c9.json",
+					"name" : "apptest005_groupbox_control_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apptest005_groupbox_control_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apptest005_groupbox_control_qmllint_module-Debug-d883f5d7784e50469e1b.json",
+					"name" : "apptest005_groupbox_control_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apptest005_groupbox_control_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apptest005_groupbox_control_qmltyperegistration-Debug-24d00f210c95da96acce.json",
+					"name" : "apptest005_groupbox_control_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apptest005_groupbox_control_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apptest005_groupbox_control_tooling-Debug-3feabf7cc03d8887c305.json",
+					"name" : "apptest005_groupbox_control_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Pavendhan V/Desktop/qt_exercise/test005_groupbox_control/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug",
+		"source" : "C:/Users/Pavendhan V/Desktop/qt_exercise/test005_groupbox_control"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

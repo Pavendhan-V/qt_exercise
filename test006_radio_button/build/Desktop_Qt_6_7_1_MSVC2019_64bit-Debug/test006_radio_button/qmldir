@@ -1,0 +1,5 @@
+module test006_radio_button
+typeinfo apptest006_radio_button.qmltypes
+prefer :/test006_radio_button/
+Main 1.0 Main.qml
+

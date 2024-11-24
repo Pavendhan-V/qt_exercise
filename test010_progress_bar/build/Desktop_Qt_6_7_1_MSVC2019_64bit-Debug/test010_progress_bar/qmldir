@@ -1,0 +1,5 @@
+module test010_progress_bar
+typeinfo apptest010_progress_bar.qmltypes
+prefer :/test010_progress_bar/
+Main 1.0 Main.qml
+

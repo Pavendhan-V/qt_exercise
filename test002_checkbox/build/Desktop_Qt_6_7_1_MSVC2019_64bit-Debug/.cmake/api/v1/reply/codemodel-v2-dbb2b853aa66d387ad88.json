@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-77bac0695a9f3f856ae2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "test002_checkbox",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-198d46a90a4bd89ee43d.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-db858ba88de4903104e8.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-530749e1f6b306a8886b.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-fec0ff5f84c7557e843f.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apptest002_checkbox::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apptest002_checkbox-Debug-3ab14b16db9397fb483f.json",
+					"name" : "apptest002_checkbox",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apptest002_checkbox_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apptest002_checkbox_autogen-Debug-0711867531a8a10acea7.json",
+					"name" : "apptest002_checkbox_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apptest002_checkbox_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apptest002_checkbox_autogen_timestamp_deps-Debug-dcf88180c103e3bfa439.json",
+					"name" : "apptest002_checkbox_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apptest002_checkbox_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apptest002_checkbox_qmlimportscan-Debug-c59ca80187f94161cc6c.json",
+					"name" : "apptest002_checkbox_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apptest002_checkbox_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apptest002_checkbox_qmllint-Debug-a21df62159ada2923335.json",
+					"name" : "apptest002_checkbox_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apptest002_checkbox_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apptest002_checkbox_qmllint_json-Debug-ff5580ba2a40f3bb3fac.json",
+					"name" : "apptest002_checkbox_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apptest002_checkbox_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apptest002_checkbox_qmllint_module-Debug-053a3630c0747e08f2e1.json",
+					"name" : "apptest002_checkbox_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apptest002_checkbox_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apptest002_checkbox_qmltyperegistration-Debug-2523d092bb3d4c385e5a.json",
+					"name" : "apptest002_checkbox_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apptest002_checkbox_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apptest002_checkbox_tooling-Debug-2687ba253f88f2355ac9.json",
+					"name" : "apptest002_checkbox_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Pavendhan V/Desktop/qt_exercise/test002_checkbox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug",
+		"source" : "C:/Users/Pavendhan V/Desktop/qt_exercise/test002_checkbox"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

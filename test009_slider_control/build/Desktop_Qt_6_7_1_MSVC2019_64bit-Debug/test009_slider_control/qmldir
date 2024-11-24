@@ -1,0 +1,5 @@
+module test009_slider_control
+typeinfo apptest009_slider_control.qmltypes
+prefer :/test009_slider_control/
+Main 1.0 Main.qml
+

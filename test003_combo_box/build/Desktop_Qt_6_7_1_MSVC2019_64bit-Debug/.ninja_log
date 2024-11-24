@@ -1,0 +1,114 @@
+# ninja log v6
+63	354	7532195884416416	test003_combo_box/Main.qml	c3523cf8cdaaf79e
+63	354	7532195884416416	C:/Users/Pavendhan V/Desktop/qt_exercise/test003_combo_box/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test003_combo_box/Main.qml	c3523cf8cdaaf79e
+85	1059	7532195892606410	.qt/qml_imports/apptest003_combo_box_build.cmake	96a211146d040083
+85	1059	7532195892606410	C:/Users/Pavendhan V/Desktop/qt_exercise/test003_combo_box/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/qml_imports/apptest003_combo_box_build.cmake	96a211146d040083
+1059	1632	7532195896296405	apptest003_combo_box_autogen/timestamp	692a61d7413ea05f
+1059	1632	7532195896296405	apptest003_combo_box_autogen/mocs_compilation.cpp	692a61d7413ea05f
+1059	1632	7532195896296405	C:/Users/Pavendhan V/Desktop/qt_exercise/test003_combo_box/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/apptest003_combo_box_autogen/timestamp	692a61d7413ea05f
+1059	1632	7532195896296405	C:/Users/Pavendhan V/Desktop/qt_exercise/test003_combo_box/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/apptest003_combo_box_autogen/mocs_compilation.cpp	692a61d7413ea05f
+1650	2076	7532195901826409	.qt/rcc/qrc_qmake_test003_combo_box.cpp	17ad48275e56e99c
+1650	2076	7532195901826409	C:/Users/Pavendhan V/Desktop/qt_exercise/test003_combo_box/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_qmake_test003_combo_box.cpp	17ad48275e56e99c
+1633	2091	7532195901886443	meta_types/apptest003_combo_box_json_file_list.txt	97e77a534090903d
+1633	2091	7532195901886443	meta_types/apptest003_combo_box_json_file_list.txt.timestamp	97e77a534090903d
+1633	2091	7532195901886443	C:/Users/Pavendhan V/Desktop/qt_exercise/test003_combo_box/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/meta_types/apptest003_combo_box_json_file_list.txt	97e77a534090903d
+1633	2091	7532195901886443	C:/Users/Pavendhan V/Desktop/qt_exercise/test003_combo_box/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/meta_types/apptest003_combo_box_json_file_list.txt.timestamp	97e77a534090903d
+1705	2110	7532195902176401	.qt/rcc/qrc_apptest003_combo_box_raw_qml_0.cpp	6d34b23d1cfa8beb
+1705	2110	7532195902176401	C:/Users/Pavendhan V/Desktop/qt_exercise/test003_combo_box/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest003_combo_box_raw_qml_0.cpp	6d34b23d1cfa8beb
+1672	2260	7532195903616478	.rcc/qmlcache/apptest003_combo_box_qmlcache_loader.cpp	3f6ce9d1a65427ec
+1672	2260	7532195903616478	C:/Users/Pavendhan V/Desktop/qt_exercise/test003_combo_box/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest003_combo_box_qmlcache_loader.cpp	3f6ce9d1a65427ec
+2091	2599	7532195907476463	meta_types/qt6apptest003_combo_box_debug_metatypes.json.gen	55a5ac5054bc34bd
+2091	2599	7532195907476463	meta_types/qt6apptest003_combo_box_debug_metatypes.json	55a5ac5054bc34bd
+2091	2599	7532195907476463	C:/Users/Pavendhan V/Desktop/qt_exercise/test003_combo_box/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/meta_types/qt6apptest003_combo_box_debug_metatypes.json.gen	55a5ac5054bc34bd
+2091	2599	7532195907476463	C:/Users/Pavendhan V/Desktop/qt_exercise/test003_combo_box/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/meta_types/qt6apptest003_combo_box_debug_metatypes.json	55a5ac5054bc34bd
+2600	3213	7532195912586409	apptest003_combo_box_qmltyperegistrations.cpp	c261afa05f728aac
+2600	3213	7532195912586409	test003_combo_box/apptest003_combo_box.qmltypes	c261afa05f728aac
+2600	3213	7532195912586409	C:/Users/Pavendhan V/Desktop/qt_exercise/test003_combo_box/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/apptest003_combo_box_qmltyperegistrations.cpp	c261afa05f728aac
+2600	3213	7532195912586409	C:/Users/Pavendhan V/Desktop/qt_exercise/test003_combo_box/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test003_combo_box/apptest003_combo_box.qmltypes	c261afa05f728aac
+3214	3522	7532195917476406	.rcc/qmlcache/apptest003_combo_box_Main_qml.cpp	a9845c79ce50b1f0
+3214	3522	7532195917476406	C:/Users/Pavendhan V/Desktop/qt_exercise/test003_combo_box/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest003_combo_box_Main_qml.cpp	a9845c79ce50b1f0
+3522	4011	7532195917786423	CMakeFiles/apptest003_combo_box.dir/apptest003_combo_box_autogen/mocs_compilation.cpp.obj	5a8ba5b8d130d782
+3549	4070	7532195918056417	CMakeFiles/apptest003_combo_box.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_qmake_test003_combo_box.cpp.obj	4cb011823a299eba
+4012	4779	7532195922686756	CMakeFiles/apptest003_combo_box.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest003_combo_box_raw_qml_0.cpp.obj	3f34e070de2833e8
+3533	11067	7532195917896405	CMakeFiles/apptest003_combo_box.dir/main.cpp.obj	520030db7abace26
+3565	11090	7532195918216433	CMakeFiles/apptest003_combo_box.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest003_combo_box_Main_qml.cpp.obj	f57224585b4ca526
+3541	11220	7532195917976432	CMakeFiles/apptest003_combo_box.dir/apptest003_combo_box_qmltyperegistrations.cpp.obj	ece36893367d240d
+3557	12158	7532195918136404	CMakeFiles/apptest003_combo_box.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest003_combo_box_qmlcache_loader.cpp.obj	c825d31832924666
+12159	13598	7532196004156405	apptest003_combo_box.exe	41b63ffae85b00f9
+163	285	7533779463230757	test003_combo_box/Main.qml	c3523cf8cdaaf79e
+163	285	7533779463230757	C:/Users/Pavendhan V/Desktop/qt_exercise/test003_combo_box/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test003_combo_box/Main.qml	c3523cf8cdaaf79e
+187	7528	7533779535644792	.qt/qml_imports/apptest003_combo_box_build.cmake	96a211146d040083
+187	7528	7533779535644792	C:/Users/Pavendhan V/Desktop/qt_exercise/test003_combo_box/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/qml_imports/apptest003_combo_box_build.cmake	96a211146d040083
+7544	7675	7533779537117287	.qt/rcc/qrc_apptest003_combo_box_raw_qml_0.cpp	6d34b23d1cfa8beb
+7544	7675	7533779537117287	C:/Users/Pavendhan V/Desktop/qt_exercise/test003_combo_box/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest003_combo_box_raw_qml_0.cpp	6d34b23d1cfa8beb
+7528	8215	7533779542401819	.rcc/qmlcache/apptest003_combo_box_Main_qml.cpp	a9845c79ce50b1f0
+7528	8215	7533779542401819	C:/Users/Pavendhan V/Desktop/qt_exercise/test003_combo_box/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest003_combo_box_Main_qml.cpp	a9845c79ce50b1f0
+8228	9252	7533779542807327	CMakeFiles/apptest003_combo_box.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest003_combo_box_raw_qml_0.cpp.obj	3f34e070de2833e8
+8216	12583	7533779542677217	CMakeFiles/apptest003_combo_box.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest003_combo_box_Main_qml.cpp.obj	f57224585b4ca526
+12584	13174	7533779586356673	apptest003_combo_box.exe	41b63ffae85b00f9
+91	257	7533779780024031	test003_combo_box/Main.qml	c3523cf8cdaaf79e
+91	257	7533779780024031	C:/Users/Pavendhan V/Desktop/qt_exercise/test003_combo_box/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test003_combo_box/Main.qml	c3523cf8cdaaf79e
+112	619	7533779783484087	.qt/qml_imports/apptest003_combo_box_build.cmake	96a211146d040083
+112	619	7533779783484087	C:/Users/Pavendhan V/Desktop/qt_exercise/test003_combo_box/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/qml_imports/apptest003_combo_box_build.cmake	96a211146d040083
+637	762	7533779784923964	.qt/rcc/qrc_apptest003_combo_box_raw_qml_0.cpp	6d34b23d1cfa8beb
+637	762	7533779784923964	C:/Users/Pavendhan V/Desktop/qt_exercise/test003_combo_box/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest003_combo_box_raw_qml_0.cpp	6d34b23d1cfa8beb
+619	998	7533779787303932	.rcc/qmlcache/apptest003_combo_box_Main_qml.cpp	a9845c79ce50b1f0
+619	998	7533779787303932	C:/Users/Pavendhan V/Desktop/qt_exercise/test003_combo_box/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest003_combo_box_Main_qml.cpp	a9845c79ce50b1f0
+1005	2020	7533779787673957	CMakeFiles/apptest003_combo_box.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest003_combo_box_raw_qml_0.cpp.obj	3f34e070de2833e8
+998	6602	7533779787603948	CMakeFiles/apptest003_combo_box.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest003_combo_box_Main_qml.cpp.obj	f57224585b4ca526
+6603	7004	7533779843651910	apptest003_combo_box.exe	41b63ffae85b00f9
+117	248	7533781417104073	test003_combo_box/Main.qml	c3523cf8cdaaf79e
+117	248	7533781417104073	C:/Users/Pavendhan V/Desktop/qt_exercise/test003_combo_box/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test003_combo_box/Main.qml	c3523cf8cdaaf79e
+138	569	7533781420284122	.qt/qml_imports/apptest003_combo_box_build.cmake	96a211146d040083
+138	569	7533781420284122	C:/Users/Pavendhan V/Desktop/qt_exercise/test003_combo_box/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/qml_imports/apptest003_combo_box_build.cmake	96a211146d040083
+587	734	7533781421784090	.qt/rcc/qrc_apptest003_combo_box_raw_qml_0.cpp	6d34b23d1cfa8beb
+587	734	7533781421784090	C:/Users/Pavendhan V/Desktop/qt_exercise/test003_combo_box/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest003_combo_box_raw_qml_0.cpp	6d34b23d1cfa8beb
+569	949	7533781423921469	.rcc/qmlcache/apptest003_combo_box_Main_qml.cpp	a9845c79ce50b1f0
+569	949	7533781423921469	C:/Users/Pavendhan V/Desktop/qt_exercise/test003_combo_box/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest003_combo_box_Main_qml.cpp	a9845c79ce50b1f0
+958	2054	7533781424354181	CMakeFiles/apptest003_combo_box.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest003_combo_box_raw_qml_0.cpp.obj	3f34e070de2833e8
+950	6636	7533781424274042	CMakeFiles/apptest003_combo_box.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest003_combo_box_Main_qml.cpp.obj	f57224585b4ca526
+6637	7185	7533781481134683	apptest003_combo_box.exe	41b63ffae85b00f9
+112	286	7533785249433649	test003_combo_box/Main.qml	c3523cf8cdaaf79e
+112	286	7533785249433649	C:/Users/Pavendhan V/Desktop/qt_exercise/test003_combo_box/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test003_combo_box/Main.qml	c3523cf8cdaaf79e
+134	745	7533785253605022	.qt/qml_imports/apptest003_combo_box_build.cmake	96a211146d040083
+134	745	7533785253605022	C:/Users/Pavendhan V/Desktop/qt_exercise/test003_combo_box/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/qml_imports/apptest003_combo_box_build.cmake	96a211146d040083
+766	928	7533785255825014	.qt/rcc/qrc_apptest003_combo_box_raw_qml_0.cpp	6d34b23d1cfa8beb
+766	928	7533785255825014	C:/Users/Pavendhan V/Desktop/qt_exercise/test003_combo_box/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest003_combo_box_raw_qml_0.cpp	6d34b23d1cfa8beb
+745	1896	7533785262866554	.rcc/qmlcache/apptest003_combo_box_Main_qml.cpp	a9845c79ce50b1f0
+745	1896	7533785262866554	C:/Users/Pavendhan V/Desktop/qt_exercise/test003_combo_box/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest003_combo_box_Main_qml.cpp	a9845c79ce50b1f0
+1918	3525	7533785266173626	CMakeFiles/apptest003_combo_box.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest003_combo_box_raw_qml_0.cpp.obj	3f34e070de2833e8
+1896	8411	7533785265951067	CMakeFiles/apptest003_combo_box.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest003_combo_box_Main_qml.cpp.obj	f57224585b4ca526
+8411	8930	7533785331107182	apptest003_combo_box.exe	41b63ffae85b00f9
+103	264	7533785692727304	test003_combo_box/Main.qml	c3523cf8cdaaf79e
+103	264	7533785692727304	C:/Users/Pavendhan V/Desktop/qt_exercise/test003_combo_box/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test003_combo_box/Main.qml	c3523cf8cdaaf79e
+123	585	7533785695803832	.qt/qml_imports/apptest003_combo_box_build.cmake	96a211146d040083
+123	585	7533785695803832	C:/Users/Pavendhan V/Desktop/qt_exercise/test003_combo_box/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/qml_imports/apptest003_combo_box_build.cmake	96a211146d040083
+614	738	7533785697361272	.qt/rcc/qrc_apptest003_combo_box_raw_qml_0.cpp	6d34b23d1cfa8beb
+614	738	7533785697361272	C:/Users/Pavendhan V/Desktop/qt_exercise/test003_combo_box/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest003_combo_box_raw_qml_0.cpp	6d34b23d1cfa8beb
+586	973	7533785699602665	.rcc/qmlcache/apptest003_combo_box_Main_qml.cpp	a9845c79ce50b1f0
+586	973	7533785699602665	C:/Users/Pavendhan V/Desktop/qt_exercise/test003_combo_box/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest003_combo_box_Main_qml.cpp	a9845c79ce50b1f0
+985	2019	7533785700061576	CMakeFiles/apptest003_combo_box.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest003_combo_box_raw_qml_0.cpp.obj	3f34e070de2833e8
+974	6190	7533785699951603	CMakeFiles/apptest003_combo_box.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest003_combo_box_Main_qml.cpp.obj	f57224585b4ca526
+6190	6597	7533785752117997	apptest003_combo_box.exe	41b63ffae85b00f9
+109	218	7533788461913016	test003_combo_box/Main.qml	c3523cf8cdaaf79e
+109	218	7533788461913016	C:/Users/Pavendhan V/Desktop/qt_exercise/test003_combo_box/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test003_combo_box/Main.qml	c3523cf8cdaaf79e
+131	568	7533788465389426	.qt/qml_imports/apptest003_combo_box_build.cmake	96a211146d040083
+131	568	7533788465389426	C:/Users/Pavendhan V/Desktop/qt_exercise/test003_combo_box/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/qml_imports/apptest003_combo_box_build.cmake	96a211146d040083
+584	702	7533788466749984	.qt/rcc/qrc_apptest003_combo_box_raw_qml_0.cpp	6d34b23d1cfa8beb
+584	702	7533788466749984	C:/Users/Pavendhan V/Desktop/qt_exercise/test003_combo_box/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest003_combo_box_raw_qml_0.cpp	6d34b23d1cfa8beb
+568	919	7533788468750456	.rcc/qmlcache/apptest003_combo_box_Main_qml.cpp	a9845c79ce50b1f0
+568	919	7533788468750456	C:/Users/Pavendhan V/Desktop/qt_exercise/test003_combo_box/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest003_combo_box_Main_qml.cpp	a9845c79ce50b1f0
+930	2623	7533788469182526	CMakeFiles/apptest003_combo_box.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest003_combo_box_raw_qml_0.cpp.obj	3f34e070de2833e8
+919	6414	7533788469072181	CMakeFiles/apptest003_combo_box.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest003_combo_box_Main_qml.cpp.obj	f57224585b4ca526
+6415	7109	7533788524033270	apptest003_combo_box.exe	41b63ffae85b00f9
+114	278	7533792862472496	test003_combo_box/Main.qml	c3523cf8cdaaf79e
+114	278	7533792862472496	C:/Users/Pavendhan V/Desktop/qt_exercise/test003_combo_box/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test003_combo_box/Main.qml	c3523cf8cdaaf79e
+137	598	7533792865789978	.qt/qml_imports/apptest003_combo_box_build.cmake	96a211146d040083
+137	598	7533792865789978	C:/Users/Pavendhan V/Desktop/qt_exercise/test003_combo_box/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/qml_imports/apptest003_combo_box_build.cmake	96a211146d040083
+614	755	7533792867120778	.qt/rcc/qrc_apptest003_combo_box_raw_qml_0.cpp	6d34b23d1cfa8beb
+614	755	7533792867120778	C:/Users/Pavendhan V/Desktop/qt_exercise/test003_combo_box/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest003_combo_box_raw_qml_0.cpp	6d34b23d1cfa8beb
+599	981	7533792869450621	.rcc/qmlcache/apptest003_combo_box_Main_qml.cpp	a9845c79ce50b1f0
+599	981	7533792869450621	C:/Users/Pavendhan V/Desktop/qt_exercise/test003_combo_box/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest003_combo_box_Main_qml.cpp	a9845c79ce50b1f0
+991	1444	7533792869862200	CMakeFiles/apptest003_combo_box.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest003_combo_box_raw_qml_0.cpp.obj	3f34e070de2833e8
+982	5768	7533792869769323	CMakeFiles/apptest003_combo_box.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest003_combo_box_Main_qml.cpp.obj	f57224585b4ca526
+5768	6346	7533792917636880	apptest003_combo_box.exe	41b63ffae85b00f9

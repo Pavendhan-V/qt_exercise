@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/Pavendhan V/Desktop/qt_exercise/test008_switch_control
+-cmake-output
+-output-file
+C:/Users/Pavendhan V/Desktop/qt_exercise/test008_switch_control/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/qml_imports/apptest008_switch_control_conf.cmake
+-importPath
+C:/Users/Pavendhan V/Desktop/qt_exercise/test008_switch_control/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test008_switch_control
+-importPath
+C:/Users/Pavendhan V/Desktop/qt_exercise/test008_switch_control/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug
+-importPath
+C:/Qt/6.7.1/msvc2019_64/./qml
+-qrcFiles
+C:/Users/Pavendhan V/Desktop/qt_exercise/test008_switch_control/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qmake_test008_switch_control.qrc
+C:/Users/Pavendhan V/Desktop/qt_exercise/test008_switch_control/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/apptest008_switch_control_raw_qml_0.qrc

@@ -1,0 +1,5 @@
+module test008_switch_control
+typeinfo apptest008_switch_control.qmltypes
+prefer :/test008_switch_control/
+Main 1.0 Main.qml
+

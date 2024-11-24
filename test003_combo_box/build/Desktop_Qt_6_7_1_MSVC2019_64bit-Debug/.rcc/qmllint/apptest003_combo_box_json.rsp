@@ -1,0 +1,12 @@
+--bare
+-I
+C:/Users/Pavendhan V/Desktop/qt_exercise/test003_combo_box/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug
+-I
+C:/Qt/6.7.1/msvc2019_64/./qml
+--resource
+C:/Users/Pavendhan V/Desktop/qt_exercise/test003_combo_box/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qmake_test003_combo_box.qrc
+--resource
+C:/Users/Pavendhan V/Desktop/qt_exercise/test003_combo_box/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/apptest003_combo_box_raw_qml_0.qrc
+C:/Users/Pavendhan V/Desktop/qt_exercise/test003_combo_box/Main.qml
+--json
+C:/Users/Pavendhan V/Desktop/qt_exercise/test003_combo_box/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/apptest003_combo_box_qmllint.json

@@ -1,0 +1,59 @@
+# ninja log v6
+70	190	7532142683051623	C:/Users/Pavendhan V/Desktop/qt_exercise/test002_checkbox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test002_checkbox/Main.qml	dee83b8b7e960be8
+70	190	7532142683051623	test002_checkbox/Main.qml	dee83b8b7e960be8
+348	685	7532137648895929	apptest002_checkbox_autogen/timestamp	14a6c607b56c9500
+348	685	7532137648895929	C:/Users/Pavendhan V/Desktop/qt_exercise/test002_checkbox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/apptest002_checkbox_autogen/mocs_compilation.cpp	14a6c607b56c9500
+82	435	7532142685881591	.qt/qml_imports/apptest002_checkbox_build.cmake	a3c29d4ecbade576
+448	532	7532142686891647	.qt/rcc/qrc_apptest002_checkbox_raw_qml_0.cpp	8b18a09fe316ab62
+348	685	7532137648895929	C:/Users/Pavendhan V/Desktop/qt_exercise/test002_checkbox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/apptest002_checkbox_autogen/timestamp	14a6c607b56c9500
+703	982	7532137653425699	.qt/rcc/qrc_qmake_test002_checkbox.cpp	bd9590df4d478653
+348	685	7532137648895929	apptest002_checkbox_autogen/mocs_compilation.cpp	14a6c607b56c9500
+82	435	7532142685881591	C:/Users/Pavendhan V/Desktop/qt_exercise/test002_checkbox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/qml_imports/apptest002_checkbox_build.cmake	a3c29d4ecbade576
+686	938	7532137653055667	meta_types/apptest002_checkbox_json_file_list.txt	145282e04a9b0d88
+686	938	7532137653055667	meta_types/apptest002_checkbox_json_file_list.txt.timestamp	145282e04a9b0d88
+686	938	7532137653055667	C:/Users/Pavendhan V/Desktop/qt_exercise/test002_checkbox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/meta_types/apptest002_checkbox_json_file_list.txt	145282e04a9b0d88
+686	938	7532137653055667	C:/Users/Pavendhan V/Desktop/qt_exercise/test002_checkbox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/meta_types/apptest002_checkbox_json_file_list.txt.timestamp	145282e04a9b0d88
+1125	1974	7532137659645664	test002_checkbox/apptest002_checkbox.qmltypes	555fcaa6eebc1200
+448	532	7532142686891647	C:/Users/Pavendhan V/Desktop/qt_exercise/test002_checkbox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest002_checkbox_raw_qml_0.cpp	8b18a09fe316ab62
+703	982	7532137653425699	C:/Users/Pavendhan V/Desktop/qt_exercise/test002_checkbox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_qmake_test002_checkbox.cpp	bd9590df4d478653
+732	1080	7532137654145678	.rcc/qmlcache/apptest002_checkbox_qmlcache_loader.cpp	38d5937be903281b
+2411	2882	7532137668225651	CMakeFiles/apptest002_checkbox.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_qmake_test002_checkbox.cpp.obj	c5da0adaa7329b63
+732	1080	7532137654145678	C:/Users/Pavendhan V/Desktop/qt_exercise/test002_checkbox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest002_checkbox_qmlcache_loader.cpp	38d5937be903281b
+939	1125	7532137655265653	meta_types/qt6apptest002_checkbox_debug_metatypes.json.gen	3faf9583e8861ff1
+708	818	7532142688761646	CMakeFiles/apptest002_checkbox.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest002_checkbox_raw_qml_0.cpp.obj	4fbaecaa7054d88a
+939	1125	7532137655265653	meta_types/qt6apptest002_checkbox_debug_metatypes.json	3faf9583e8861ff1
+939	1125	7532137655265653	C:/Users/Pavendhan V/Desktop/qt_exercise/test002_checkbox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/meta_types/qt6apptest002_checkbox_debug_metatypes.json.gen	3faf9583e8861ff1
+939	1125	7532137655265653	C:/Users/Pavendhan V/Desktop/qt_exercise/test002_checkbox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/meta_types/qt6apptest002_checkbox_debug_metatypes.json	3faf9583e8861ff1
+1125	1974	7532137659645664	apptest002_checkbox_qmltyperegistrations.cpp	555fcaa6eebc1200
+2391	8679	7532137668025656	CMakeFiles/apptest002_checkbox.dir/main.cpp.obj	7831a306b2ee3a17
+1125	1974	7532137659645664	C:/Users/Pavendhan V/Desktop/qt_exercise/test002_checkbox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/apptest002_checkbox_qmltyperegistrations.cpp	555fcaa6eebc1200
+1125	1974	7532137659645664	C:/Users/Pavendhan V/Desktop/qt_exercise/test002_checkbox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test002_checkbox/apptest002_checkbox.qmltypes	555fcaa6eebc1200
+436	701	7532142688431782	.rcc/qmlcache/apptest002_checkbox_Main_qml.cpp	98f646b2684b0e87
+436	701	7532142688431782	C:/Users/Pavendhan V/Desktop/qt_exercise/test002_checkbox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest002_checkbox_Main_qml.cpp	98f646b2684b0e87
+2382	2791	7532137667935696	CMakeFiles/apptest002_checkbox.dir/apptest002_checkbox_autogen/mocs_compilation.cpp.obj	7b71406b085f1509
+702	3965	7532142688701616	CMakeFiles/apptest002_checkbox.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest002_checkbox_Main_qml.cpp.obj	3a26a60ff16ee15b
+2400	8677	7532137668105652	CMakeFiles/apptest002_checkbox.dir/apptest002_checkbox_qmltyperegistrations.cpp.obj	fd62400f656d6fad
+2434	9870	7532137668455667	CMakeFiles/apptest002_checkbox.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest002_checkbox_qmlcache_loader.cpp.obj	6f1f40714f733876
+3965	4243	7532142721331564	apptest002_checkbox.exe	d5be5777f9dfe429
+146	411	7532190882201524	test002_checkbox/Main.qml	dee83b8b7e960be8
+146	411	7532190882201524	C:/Users/Pavendhan V/Desktop/qt_exercise/test002_checkbox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test002_checkbox/Main.qml	dee83b8b7e960be8
+166	758	7532190885661478	.qt/qml_imports/apptest002_checkbox_build.cmake	a3c29d4ecbade576
+166	758	7532190885661478	C:/Users/Pavendhan V/Desktop/qt_exercise/test002_checkbox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/qml_imports/apptest002_checkbox_build.cmake	a3c29d4ecbade576
+774	926	7532190887071509	.qt/rcc/qrc_apptest002_checkbox_raw_qml_0.cpp	8b18a09fe316ab62
+774	926	7532190887071509	C:/Users/Pavendhan V/Desktop/qt_exercise/test002_checkbox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest002_checkbox_raw_qml_0.cpp	8b18a09fe316ab62
+759	1188	7532190889771454	.rcc/qmlcache/apptest002_checkbox_Main_qml.cpp	98f646b2684b0e87
+759	1188	7532190889771454	C:/Users/Pavendhan V/Desktop/qt_exercise/test002_checkbox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest002_checkbox_Main_qml.cpp	98f646b2684b0e87
+1207	2284	7532190890291498	CMakeFiles/apptest002_checkbox.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest002_checkbox_raw_qml_0.cpp.obj	4fbaecaa7054d88a
+1189	6333	7532190890111493	CMakeFiles/apptest002_checkbox.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest002_checkbox_Main_qml.cpp.obj	3a26a60ff16ee15b
+6333	7076	7532190941551231	apptest002_checkbox.exe	d5be5777f9dfe429
+99	288	7532193953711081	test002_checkbox/Main.qml	dee83b8b7e960be8
+99	288	7532193953711081	C:/Users/Pavendhan V/Desktop/qt_exercise/test002_checkbox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test002_checkbox/Main.qml	dee83b8b7e960be8
+118	545	7532193956471088	.qt/qml_imports/apptest002_checkbox_build.cmake	a3c29d4ecbade576
+118	545	7532193956471088	C:/Users/Pavendhan V/Desktop/qt_exercise/test002_checkbox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/qml_imports/apptest002_checkbox_build.cmake	a3c29d4ecbade576
+560	660	7532193957671125	.qt/rcc/qrc_apptest002_checkbox_raw_qml_0.cpp	8b18a09fe316ab62
+560	660	7532193957671125	C:/Users/Pavendhan V/Desktop/qt_exercise/test002_checkbox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest002_checkbox_raw_qml_0.cpp	8b18a09fe316ab62
+545	880	7532193959561070	.rcc/qmlcache/apptest002_checkbox_Main_qml.cpp	98f646b2684b0e87
+545	880	7532193959561070	C:/Users/Pavendhan V/Desktop/qt_exercise/test002_checkbox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest002_checkbox_Main_qml.cpp	98f646b2684b0e87
+891	2219	7532193960081116	CMakeFiles/apptest002_checkbox.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest002_checkbox_raw_qml_0.cpp.obj	4fbaecaa7054d88a
+880	6159	7532193959971096	CMakeFiles/apptest002_checkbox.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest002_checkbox_Main_qml.cpp.obj	3a26a60ff16ee15b
+6159	6678	7532194012751059	apptest002_checkbox.exe	d5be5777f9dfe429

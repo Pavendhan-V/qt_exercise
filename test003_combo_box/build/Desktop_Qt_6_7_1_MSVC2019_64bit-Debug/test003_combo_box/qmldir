@@ -1,0 +1,5 @@
+module test003_combo_box
+typeinfo apptest003_combo_box.qmltypes
+prefer :/test003_combo_box/
+Main 1.0 Main.qml
+

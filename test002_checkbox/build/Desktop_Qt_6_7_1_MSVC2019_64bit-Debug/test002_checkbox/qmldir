@@ -1,0 +1,5 @@
+module test002_checkbox
+typeinfo apptest002_checkbox.qmltypes
+prefer :/test002_checkbox/
+Main 1.0 Main.qml
+

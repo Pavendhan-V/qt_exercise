@@ -1,0 +1,5 @@
+module test007_spinbox
+typeinfo apptest007_spinbox.qmltypes
+prefer :/test007_spinbox/
+Main 1.0 Main.qml
+

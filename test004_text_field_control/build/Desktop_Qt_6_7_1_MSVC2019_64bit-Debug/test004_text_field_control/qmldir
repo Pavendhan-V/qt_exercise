@@ -1,0 +1,5 @@
+module test004_text_field_control
+typeinfo apptest004_text_field_control.qmltypes
+prefer :/test004_text_field_control/
+Main 1.0 Main.qml
+
