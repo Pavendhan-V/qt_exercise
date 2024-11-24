@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/test027_split_view/">
+    <file alias="Main.qml">C:/Users/Pavendhan V/Desktop/qt_exercise/test027_split_view/Main.qml</file>
+    <file alias="page01.qml">C:/Users/Pavendhan V/Desktop/qt_exercise/test027_split_view/page01.qml</file>
+    <file alias="page02.qml">C:/Users/Pavendhan V/Desktop/qt_exercise/test027_split_view/page02.qml</file>
+    <file alias="page03.qml">C:/Users/Pavendhan V/Desktop/qt_exercise/test027_split_view/page03.qml</file>
+  </qresource>
+</RCC>
+

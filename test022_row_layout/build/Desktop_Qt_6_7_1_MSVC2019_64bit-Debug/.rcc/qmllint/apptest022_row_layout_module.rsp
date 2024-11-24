@@ -1,0 +1,10 @@
+-I
+C:/Users/Pavendhan V/Desktop/qt_exercise/test022_row_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug
+-I
+C:/Qt/6.7.1/msvc2019_64/./qml
+--resource
+C:/Users/Pavendhan V/Desktop/qt_exercise/test022_row_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qmake_test022_row_layout.qrc
+--resource
+C:/Users/Pavendhan V/Desktop/qt_exercise/test022_row_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/apptest022_row_layout_raw_qml_0.qrc
+--module
+test022_row_layout

@@ -1,0 +1,5 @@
+module test_021_color_animation
+typeinfo apptest_021_color_animation.qmltypes
+prefer :/test_021_color_animation/
+Main 1.0 Main.qml
+

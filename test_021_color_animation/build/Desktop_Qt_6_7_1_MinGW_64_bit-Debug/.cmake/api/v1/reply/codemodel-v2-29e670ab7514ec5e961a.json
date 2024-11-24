@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-654481e8a7a6cb9aa1ed.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "test_021_color_animation",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-c6ed5033285100a5f2ef.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-48bc77b3b6121d4fa952.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-7d9101120c46793cd5e4.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-ae0f3534adff61c838d7.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apptest_021_color_animation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apptest_021_color_animation-Debug-8ea99582aff20265239b.json",
+					"name" : "apptest_021_color_animation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apptest_021_color_animation_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apptest_021_color_animation_autogen-Debug-9d4167ff95510d2edc44.json",
+					"name" : "apptest_021_color_animation_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apptest_021_color_animation_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apptest_021_color_animation_autogen_timestamp_deps-Debug-cff5311d3f7f26fb7b2a.json",
+					"name" : "apptest_021_color_animation_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apptest_021_color_animation_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apptest_021_color_animation_qmlimportscan-Debug-77fcadf8f4f3a2e31314.json",
+					"name" : "apptest_021_color_animation_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apptest_021_color_animation_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apptest_021_color_animation_qmllint-Debug-7f97b9f190269667d30d.json",
+					"name" : "apptest_021_color_animation_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apptest_021_color_animation_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apptest_021_color_animation_qmllint_json-Debug-20da1f3aadf67d2fd4eb.json",
+					"name" : "apptest_021_color_animation_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apptest_021_color_animation_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apptest_021_color_animation_qmllint_module-Debug-4e11cff4929f51136fc0.json",
+					"name" : "apptest_021_color_animation_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apptest_021_color_animation_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apptest_021_color_animation_qmltyperegistration-Debug-50382295cdf5fc38a0a1.json",
+					"name" : "apptest_021_color_animation_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apptest_021_color_animation_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apptest_021_color_animation_tooling-Debug-9535754b205a30ebce60.json",
+					"name" : "apptest_021_color_animation_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Pavendhan V/Desktop/qt_exercise/test_021_color_animation/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/Pavendhan V/Desktop/qt_exercise/test_021_color_animation"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

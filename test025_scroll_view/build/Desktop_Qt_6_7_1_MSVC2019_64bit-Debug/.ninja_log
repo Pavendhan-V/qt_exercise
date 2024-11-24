@@ -1,0 +1,59 @@
+# ninja log v6
+53	181	7535234698504686	test025_scroll_view/Main.qml	7df474b867ab2d07
+53	181	7535234698504686	C:/Users/Pavendhan V/Desktop/qt_exercise/test025_scroll_view/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test025_scroll_view/Main.qml	7df474b867ab2d07
+70	554	7535234702326855	.qt/qml_imports/apptest025_scroll_view_build.cmake	42b974de76b8ec47
+70	554	7535234702326855	C:/Users/Pavendhan V/Desktop/qt_exercise/test025_scroll_view/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/qml_imports/apptest025_scroll_view_build.cmake	42b974de76b8ec47
+554	957	7535234704148422	apptest025_scroll_view_autogen/timestamp	83a30ead7d4e1613
+554	957	7535234704148422	apptest025_scroll_view_autogen/mocs_compilation.cpp	83a30ead7d4e1613
+554	957	7535234704148422	C:/Users/Pavendhan V/Desktop/qt_exercise/test025_scroll_view/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/apptest025_scroll_view_autogen/timestamp	83a30ead7d4e1613
+554	957	7535234704148422	C:/Users/Pavendhan V/Desktop/qt_exercise/test025_scroll_view/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/apptest025_scroll_view_autogen/mocs_compilation.cpp	83a30ead7d4e1613
+979	1239	7535234708344631	.qt/rcc/qrc_qmake_test025_scroll_view.cpp	33669716d0da9a93
+979	1239	7535234708344631	C:/Users/Pavendhan V/Desktop/qt_exercise/test025_scroll_view/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_qmake_test025_scroll_view.cpp	33669716d0da9a93
+961	1283	7535234709003522	meta_types/apptest025_scroll_view_json_file_list.txt	165383fd0bc9f8fc
+961	1283	7535234709003522	meta_types/apptest025_scroll_view_json_file_list.txt.timestamp	165383fd0bc9f8fc
+961	1283	7535234709003522	C:/Users/Pavendhan V/Desktop/qt_exercise/test025_scroll_view/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/meta_types/apptest025_scroll_view_json_file_list.txt	165383fd0bc9f8fc
+961	1283	7535234709003522	C:/Users/Pavendhan V/Desktop/qt_exercise/test025_scroll_view/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/meta_types/apptest025_scroll_view_json_file_list.txt.timestamp	165383fd0bc9f8fc
+1025	1306	7535234709294181	.qt/rcc/qrc_apptest025_scroll_view_raw_qml_0.cpp	cc340e7cc1fc169f
+1025	1306	7535234709294181	C:/Users/Pavendhan V/Desktop/qt_exercise/test025_scroll_view/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest025_scroll_view_raw_qml_0.cpp	cc340e7cc1fc169f
+998	1369	7535234709743685	.rcc/qmlcache/apptest025_scroll_view_qmlcache_loader.cpp	ebdcbb18a08efea4
+998	1369	7535234709743685	C:/Users/Pavendhan V/Desktop/qt_exercise/test025_scroll_view/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest025_scroll_view_qmlcache_loader.cpp	ebdcbb18a08efea4
+1283	1525	7535234711915561	meta_types/qt6apptest025_scroll_view_debug_metatypes.json.gen	10ecaf430a84278a
+1283	1525	7535234711915561	meta_types/qt6apptest025_scroll_view_debug_metatypes.json	10ecaf430a84278a
+1283	1525	7535234711915561	C:/Users/Pavendhan V/Desktop/qt_exercise/test025_scroll_view/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/meta_types/qt6apptest025_scroll_view_debug_metatypes.json.gen	10ecaf430a84278a
+1283	1525	7535234711915561	C:/Users/Pavendhan V/Desktop/qt_exercise/test025_scroll_view/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/meta_types/qt6apptest025_scroll_view_debug_metatypes.json	10ecaf430a84278a
+1526	2148	7535234715900478	apptest025_scroll_view_qmltyperegistrations.cpp	f8b9afefdf54e29d
+1526	2148	7535234715900478	test025_scroll_view/apptest025_scroll_view.qmltypes	f8b9afefdf54e29d
+1526	2148	7535234715900478	C:/Users/Pavendhan V/Desktop/qt_exercise/test025_scroll_view/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/apptest025_scroll_view_qmltyperegistrations.cpp	f8b9afefdf54e29d
+1526	2148	7535234715900478	C:/Users/Pavendhan V/Desktop/qt_exercise/test025_scroll_view/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test025_scroll_view/apptest025_scroll_view.qmltypes	f8b9afefdf54e29d
+2149	2531	7535234721988159	.rcc/qmlcache/apptest025_scroll_view_Main_qml.cpp	2c8656c2ee97af40
+2149	2531	7535234721988159	C:/Users/Pavendhan V/Desktop/qt_exercise/test025_scroll_view/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest025_scroll_view_Main_qml.cpp	2c8656c2ee97af40
+2532	2933	7535234722283896	CMakeFiles/apptest025_scroll_view.dir/apptest025_scroll_view_autogen/mocs_compilation.cpp.obj	8d965d6aa1cd4c2e
+2561	2950	7535234722575684	CMakeFiles/apptest025_scroll_view.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_qmake_test025_scroll_view.cpp.obj	9e682b7d6f4ba3ed
+2935	3156	7535234726320449	CMakeFiles/apptest025_scroll_view.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest025_scroll_view_raw_qml_0.cpp.obj	4cbb831cffbf30f3
+2551	9144	7535234722474106	CMakeFiles/apptest025_scroll_view.dir/apptest025_scroll_view_qmltyperegistrations.cpp.obj	d6c2296faa6145e3
+2609	9266	7535234723051172	CMakeFiles/apptest025_scroll_view.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest025_scroll_view_Main_qml.cpp.obj	486791b8408c0f2e
+2539	9645	7535234722353885	CMakeFiles/apptest025_scroll_view.dir/main.cpp.obj	75371ffd92260907
+2571	10937	7535234722678082	CMakeFiles/apptest025_scroll_view.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest025_scroll_view_qmlcache_loader.cpp.obj	e74653e236d0f855
+10938	11687	7535234806333285	apptest025_scroll_view.exe	e9b9665e64122c74
+106	222	7535235168820884	test025_scroll_view/Main.qml	7df474b867ab2d07
+106	222	7535235168820884	C:/Users/Pavendhan V/Desktop/qt_exercise/test025_scroll_view/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test025_scroll_view/Main.qml	7df474b867ab2d07
+122	525	7535235172030725	.qt/qml_imports/apptest025_scroll_view_build.cmake	42b974de76b8ec47
+122	525	7535235172030725	C:/Users/Pavendhan V/Desktop/qt_exercise/test025_scroll_view/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/qml_imports/apptest025_scroll_view_build.cmake	42b974de76b8ec47
+541	638	7535235173137373	.qt/rcc/qrc_apptest025_scroll_view_raw_qml_0.cpp	cc340e7cc1fc169f
+541	638	7535235173137373	C:/Users/Pavendhan V/Desktop/qt_exercise/test025_scroll_view/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest025_scroll_view_raw_qml_0.cpp	cc340e7cc1fc169f
+525	848	7535235175067973	.rcc/qmlcache/apptest025_scroll_view_Main_qml.cpp	2c8656c2ee97af40
+525	848	7535235175067973	C:/Users/Pavendhan V/Desktop/qt_exercise/test025_scroll_view/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest025_scroll_view_Main_qml.cpp	2c8656c2ee97af40
+855	1014	7535235175452536	CMakeFiles/apptest025_scroll_view.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest025_scroll_view_raw_qml_0.cpp.obj	4cbb831cffbf30f3
+848	4823	7535235175392726	CMakeFiles/apptest025_scroll_view.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest025_scroll_view_Main_qml.cpp.obj	486791b8408c0f2e
+4823	5240	7535235215132450	apptest025_scroll_view.exe	e9b9665e64122c74
+82	209	7535235709685108	test025_scroll_view/Main.qml	7df474b867ab2d07
+82	209	7535235709685108	C:/Users/Pavendhan V/Desktop/qt_exercise/test025_scroll_view/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test025_scroll_view/Main.qml	7df474b867ab2d07
+96	475	7535235712640867	.qt/qml_imports/apptest025_scroll_view_build.cmake	42b974de76b8ec47
+96	475	7535235712640867	C:/Users/Pavendhan V/Desktop/qt_exercise/test025_scroll_view/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/qml_imports/apptest025_scroll_view_build.cmake	42b974de76b8ec47
+490	599	7535235713750453	.qt/rcc/qrc_apptest025_scroll_view_raw_qml_0.cpp	cc340e7cc1fc169f
+490	599	7535235713750453	C:/Users/Pavendhan V/Desktop/qt_exercise/test025_scroll_view/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest025_scroll_view_raw_qml_0.cpp	cc340e7cc1fc169f
+476	781	7535235715570584	.rcc/qmlcache/apptest025_scroll_view_Main_qml.cpp	2c8656c2ee97af40
+476	781	7535235715570584	C:/Users/Pavendhan V/Desktop/qt_exercise/test025_scroll_view/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest025_scroll_view_Main_qml.cpp	2c8656c2ee97af40
+789	949	7535235715940083	CMakeFiles/apptest025_scroll_view.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest025_scroll_view_raw_qml_0.cpp.obj	4cbb831cffbf30f3
+782	4609	7535235715859865	CMakeFiles/apptest025_scroll_view.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest025_scroll_view_Main_qml.cpp.obj	486791b8408c0f2e
+4609	4978	7535235754134396	apptest025_scroll_view.exe	e9b9665e64122c74

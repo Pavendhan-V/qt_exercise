@@ -1,0 +1,5 @@
+module test021_column_layout
+typeinfo apptest021_column_layout.qmltypes
+prefer :/test021_column_layout/
+Main 1.0 Main.qml
+

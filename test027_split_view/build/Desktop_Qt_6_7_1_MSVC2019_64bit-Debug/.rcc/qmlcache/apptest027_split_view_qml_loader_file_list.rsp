@@ -1,0 +1,8 @@
+--resource
+C:/Users/Pavendhan V/Desktop/qt_exercise/test027_split_view/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qmake_test027_split_view.qrc
+--resource
+C:/Users/Pavendhan V/Desktop/qt_exercise/test027_split_view/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/apptest027_split_view_raw_qml_0.qrc
+/test027_split_view/Main.qml
+/test027_split_view/page01.qml
+/test027_split_view/page02.qml
+/test027_split_view/page03.qml

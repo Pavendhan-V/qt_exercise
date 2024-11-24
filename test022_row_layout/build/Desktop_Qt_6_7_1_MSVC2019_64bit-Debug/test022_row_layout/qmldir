@@ -1,0 +1,5 @@
+module test022_row_layout
+typeinfo apptest022_row_layout.qmltypes
+prefer :/test022_row_layout/
+Main 1.0 Main.qml
+

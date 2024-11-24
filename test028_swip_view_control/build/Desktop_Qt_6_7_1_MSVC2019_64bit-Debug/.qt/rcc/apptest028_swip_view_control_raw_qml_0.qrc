@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/test028_swip_view_control/">
+    <file alias="Main.qml">C:/Users/Pavendhan V/Desktop/qt_exercise/test028_swip_view_control/Main.qml</file>
+    <file alias="page01.qml">C:/Users/Pavendhan V/Desktop/qt_exercise/test028_swip_view_control/page01.qml</file>
+    <file alias="page02.qml">C:/Users/Pavendhan V/Desktop/qt_exercise/test028_swip_view_control/page02.qml</file>
+    <file alias="page03.qml">C:/Users/Pavendhan V/Desktop/qt_exercise/test028_swip_view_control/page03.qml</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-ed6c3c4d1c49014e109d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "test028_swip_view_control",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-cf12260286f77892be43.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-204fe01c4727c15ef851.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-05b40b8a78c73ef83a74.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-8f8d999abc87d936eaa1.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apptest028_swip_view_control::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apptest028_swip_view_control-Debug-02aa1486948b7437b2e0.json",
+					"name" : "apptest028_swip_view_control",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apptest028_swip_view_control_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apptest028_swip_view_control_autogen-Debug-4c4bf27ee983a0c52895.json",
+					"name" : "apptest028_swip_view_control_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apptest028_swip_view_control_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apptest028_swip_view_control_autogen_timestamp_deps-Debug-f3b5e0374cdb07f17d78.json",
+					"name" : "apptest028_swip_view_control_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apptest028_swip_view_control_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apptest028_swip_view_control_qmlimportscan-Debug-620c33de45e7f486f4e8.json",
+					"name" : "apptest028_swip_view_control_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apptest028_swip_view_control_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apptest028_swip_view_control_qmllint-Debug-ef4afea9e1cc67af01fb.json",
+					"name" : "apptest028_swip_view_control_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apptest028_swip_view_control_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apptest028_swip_view_control_qmllint_json-Debug-5ea1eec8bce68c0a7f09.json",
+					"name" : "apptest028_swip_view_control_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apptest028_swip_view_control_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apptest028_swip_view_control_qmllint_module-Debug-b1b8f2004184bb111aa6.json",
+					"name" : "apptest028_swip_view_control_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apptest028_swip_view_control_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apptest028_swip_view_control_qmltyperegistration-Debug-49f1543890fc8150c266.json",
+					"name" : "apptest028_swip_view_control_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apptest028_swip_view_control_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apptest028_swip_view_control_tooling-Debug-b9f8a39337abc5f63c1c.json",
+					"name" : "apptest028_swip_view_control_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Pavendhan V/Desktop/qt_exercise/test028_swip_view_control/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug",
+		"source" : "C:/Users/Pavendhan V/Desktop/qt_exercise/test028_swip_view_control"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

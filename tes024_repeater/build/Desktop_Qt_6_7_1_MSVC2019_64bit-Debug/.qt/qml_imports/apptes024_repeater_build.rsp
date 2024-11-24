@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/Pavendhan V/Desktop/qt_exercise/tes024_repeater
+-cmake-output
+-output-file
+C:/Users/Pavendhan V/Desktop/qt_exercise/tes024_repeater/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/qml_imports/apptes024_repeater_build.cmake
+-importPath
+C:/Users/Pavendhan V/Desktop/qt_exercise/tes024_repeater/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/tes024_repeater
+-importPath
+C:/Users/Pavendhan V/Desktop/qt_exercise/tes024_repeater/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug
+-importPath
+C:/Qt/6.7.1/msvc2019_64/./qml
+-qrcFiles
+C:/Users/Pavendhan V/Desktop/qt_exercise/tes024_repeater/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qmake_tes024_repeater.qrc
+C:/Users/Pavendhan V/Desktop/qt_exercise/tes024_repeater/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/apptes024_repeater_raw_qml_0.qrc

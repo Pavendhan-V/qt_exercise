@@ -1,0 +1,10 @@
+-I
+C:/Users/Pavendhan V/Desktop/qt_exercise/test028_swip_view_control/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug
+-I
+C:/Qt/6.7.1/msvc2019_64/./qml
+--resource
+C:/Users/Pavendhan V/Desktop/qt_exercise/test028_swip_view_control/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qmake_test028_swip_view_control.qrc
+--resource
+C:/Users/Pavendhan V/Desktop/qt_exercise/test028_swip_view_control/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/apptest028_swip_view_control_raw_qml_0.qrc
+--module
+test028_swip_view_control

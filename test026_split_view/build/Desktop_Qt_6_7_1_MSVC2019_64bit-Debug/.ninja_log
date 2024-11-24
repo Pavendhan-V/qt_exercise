@@ -1,0 +1,65 @@
+# ninja log v6
+58	177	7535249051491110	test026_split_view/Main.qml	d5e6a47cb426b5c2
+58	177	7535249051491110	C:/Users/Pavendhan V/Desktop/qt_exercise/test026_split_view/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test026_split_view/Main.qml	d5e6a47cb426b5c2
+75	7112	7535249120876411	.qt/qml_imports/apptest026_split_view_build.cmake	37864e2da3009918
+75	7112	7535249120876411	C:/Users/Pavendhan V/Desktop/qt_exercise/test026_split_view/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/qml_imports/apptest026_split_view_build.cmake	37864e2da3009918
+7113	7497	7535249122606139	apptest026_split_view_autogen/timestamp	7139029949de05f5
+7113	7497	7535249122606139	apptest026_split_view_autogen/mocs_compilation.cpp	7139029949de05f5
+7113	7497	7535249122606139	C:/Users/Pavendhan V/Desktop/qt_exercise/test026_split_view/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/apptest026_split_view_autogen/timestamp	7139029949de05f5
+7113	7497	7535249122606139	C:/Users/Pavendhan V/Desktop/qt_exercise/test026_split_view/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/apptest026_split_view_autogen/mocs_compilation.cpp	7139029949de05f5
+7498	7696	7535249126373361	meta_types/apptest026_split_view_json_file_list.txt	2a4eda016802bfe4
+7498	7696	7535249126373361	meta_types/apptest026_split_view_json_file_list.txt.timestamp	2a4eda016802bfe4
+7498	7696	7535249126373361	C:/Users/Pavendhan V/Desktop/qt_exercise/test026_split_view/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/meta_types/apptest026_split_view_json_file_list.txt	2a4eda016802bfe4
+7498	7696	7535249126373361	C:/Users/Pavendhan V/Desktop/qt_exercise/test026_split_view/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/meta_types/apptest026_split_view_json_file_list.txt.timestamp	2a4eda016802bfe4
+7511	7759	7535249126920960	.qt/rcc/qrc_qmake_test026_split_view.cpp	30f4ccd47ac2d11d
+7511	7759	7535249126920960	C:/Users/Pavendhan V/Desktop/qt_exercise/test026_split_view/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_qmake_test026_split_view.cpp	30f4ccd47ac2d11d
+7549	7863	7535249128001972	.qt/rcc/qrc_apptest026_split_view_raw_qml_0.cpp	ea5fc80de0692320
+7549	7863	7535249128001972	C:/Users/Pavendhan V/Desktop/qt_exercise/test026_split_view/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest026_split_view_raw_qml_0.cpp	ea5fc80de0692320
+7528	7938	7535249128838610	.rcc/qmlcache/apptest026_split_view_qmlcache_loader.cpp	f3ecf6f6b65d79e4
+7528	7938	7535249128838610	C:/Users/Pavendhan V/Desktop/qt_exercise/test026_split_view/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest026_split_view_qmlcache_loader.cpp	f3ecf6f6b65d79e4
+7696	7964	7535249129341050	meta_types/qt6apptest026_split_view_debug_metatypes.json.gen	5b66367bd458261a
+7696	7964	7535249129341050	meta_types/qt6apptest026_split_view_debug_metatypes.json	5b66367bd458261a
+7696	7964	7535249129341050	C:/Users/Pavendhan V/Desktop/qt_exercise/test026_split_view/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/meta_types/qt6apptest026_split_view_debug_metatypes.json.gen	5b66367bd458261a
+7696	7964	7535249129341050	C:/Users/Pavendhan V/Desktop/qt_exercise/test026_split_view/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/meta_types/qt6apptest026_split_view_debug_metatypes.json	5b66367bd458261a
+7965	8382	7535249131797904	apptest026_split_view_qmltyperegistrations.cpp	160c07f7290ecb1e
+7965	8382	7535249131797904	test026_split_view/apptest026_split_view.qmltypes	160c07f7290ecb1e
+7965	8382	7535249131797904	C:/Users/Pavendhan V/Desktop/qt_exercise/test026_split_view/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/apptest026_split_view_qmltyperegistrations.cpp	160c07f7290ecb1e
+7965	8382	7535249131797904	C:/Users/Pavendhan V/Desktop/qt_exercise/test026_split_view/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test026_split_view/apptest026_split_view.qmltypes	160c07f7290ecb1e
+8382	9122	7535249140739307	.rcc/qmlcache/apptest026_split_view_Main_qml.cpp	a64155e5adfb1fee
+8382	9122	7535249140739307	C:/Users/Pavendhan V/Desktop/qt_exercise/test026_split_view/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest026_split_view_Main_qml.cpp	a64155e5adfb1fee
+9122	9565	7535249141124583	CMakeFiles/apptest026_split_view.dir/apptest026_split_view_autogen/mocs_compilation.cpp.obj	a7a316c6b2c55252
+9177	9777	7535249141667392	CMakeFiles/apptest026_split_view.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_qmake_test026_split_view.cpp.obj	7ac4338c9fbdc47f
+9573	9945	7535249145637433	CMakeFiles/apptest026_split_view.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest026_split_view_raw_qml_0.cpp.obj	b2dd10fe492c4f79
+9148	18305	7535249141387120	CMakeFiles/apptest026_split_view.dir/apptest026_split_view_qmltyperegistrations.cpp.obj	395008b109aab845
+9136	18487	7535249141257559	CMakeFiles/apptest026_split_view.dir/main.cpp.obj	556353eda3783758
+9209	18568	7535249141989347	CMakeFiles/apptest026_split_view.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest026_split_view_Main_qml.cpp.obj	cdb8acf238b3e36a
+9196	19461	7535249141859356	CMakeFiles/apptest026_split_view.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest026_split_view_qmlcache_loader.cpp.obj	efda7606186f0233
+19461	20389	7535249244517581	apptest026_split_view.exe	54a6299ccafd16f7
+200	368	7535249953744360	test026_split_view/Main.qml	d5e6a47cb426b5c2
+200	368	7535249953744360	C:/Users/Pavendhan V/Desktop/qt_exercise/test026_split_view/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test026_split_view/Main.qml	d5e6a47cb426b5c2
+220	721	7535249957298672	.qt/qml_imports/apptest026_split_view_build.cmake	37864e2da3009918
+220	721	7535249957298672	C:/Users/Pavendhan V/Desktop/qt_exercise/test026_split_view/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/qml_imports/apptest026_split_view_build.cmake	37864e2da3009918
+745	1015	7535249959778096	.qt/rcc/qrc_apptest026_split_view_raw_qml_0.cpp	ea5fc80de0692320
+745	1015	7535249959778096	C:/Users/Pavendhan V/Desktop/qt_exercise/test026_split_view/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest026_split_view_raw_qml_0.cpp	ea5fc80de0692320
+67	225	7535250280687739	test026_split_view/Main.qml	d5e6a47cb426b5c2
+67	225	7535250280687739	C:/Users/Pavendhan V/Desktop/qt_exercise/test026_split_view/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test026_split_view/Main.qml	d5e6a47cb426b5c2
+85	561	7535250284162395	.qt/qml_imports/apptest026_split_view_build.cmake	37864e2da3009918
+85	561	7535250284162395	C:/Users/Pavendhan V/Desktop/qt_exercise/test026_split_view/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/qml_imports/apptest026_split_view_build.cmake	37864e2da3009918
+580	730	7535250285662333	.qt/rcc/qrc_apptest026_split_view_raw_qml_0.cpp	ea5fc80de0692320
+580	730	7535250285662333	C:/Users/Pavendhan V/Desktop/qt_exercise/test026_split_view/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest026_split_view_raw_qml_0.cpp	ea5fc80de0692320
+561	949	7535250287870100	.rcc/qmlcache/apptest026_split_view_Main_qml.cpp	a64155e5adfb1fee
+561	949	7535250287870100	C:/Users/Pavendhan V/Desktop/qt_exercise/test026_split_view/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest026_split_view_Main_qml.cpp	a64155e5adfb1fee
+961	1133	7535250288333796	CMakeFiles/apptest026_split_view.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest026_split_view_raw_qml_0.cpp.obj	b2dd10fe492c4f79
+949	5235	7535250288222016	CMakeFiles/apptest026_split_view.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest026_split_view_Main_qml.cpp.obj	cdb8acf238b3e36a
+5236	5760	7535250331083025	apptest026_split_view.exe	54a6299ccafd16f7
+158	314	7535250768121772	test026_split_view/Main.qml	d5e6a47cb426b5c2
+158	314	7535250768121772	C:/Users/Pavendhan V/Desktop/qt_exercise/test026_split_view/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test026_split_view/Main.qml	d5e6a47cb426b5c2
+182	697	7535250771965258	.qt/qml_imports/apptest026_split_view_build.cmake	37864e2da3009918
+182	697	7535250771965258	C:/Users/Pavendhan V/Desktop/qt_exercise/test026_split_view/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/qml_imports/apptest026_split_view_build.cmake	37864e2da3009918
+716	864	7535250773609770	.qt/rcc/qrc_apptest026_split_view_raw_qml_0.cpp	ea5fc80de0692320
+716	864	7535250773609770	C:/Users/Pavendhan V/Desktop/qt_exercise/test026_split_view/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest026_split_view_raw_qml_0.cpp	ea5fc80de0692320
+697	1096	7535250775777395	.rcc/qmlcache/apptest026_split_view_Main_qml.cpp	a64155e5adfb1fee
+697	1096	7535250775777395	C:/Users/Pavendhan V/Desktop/qt_exercise/test026_split_view/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest026_split_view_Main_qml.cpp	a64155e5adfb1fee
+1113	1276	7535250776284851	CMakeFiles/apptest026_split_view.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest026_split_view_raw_qml_0.cpp.obj	b2dd10fe492c4f79
+1097	5366	7535250776134147	CMakeFiles/apptest026_split_view.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest026_split_view_Main_qml.cpp.obj	cdb8acf238b3e36a
+5367	5818	7535250818826984	apptest026_split_view.exe	54a6299ccafd16f7

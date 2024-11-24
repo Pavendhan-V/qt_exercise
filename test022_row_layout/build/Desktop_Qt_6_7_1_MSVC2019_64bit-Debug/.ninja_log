@@ -1,0 +1,48 @@
+# ninja log v6
+42	142	7535183150329876	test022_row_layout/Main.qml	7fc5ff4a918f8001
+42	142	7535183150329876	C:/Users/Pavendhan V/Desktop/qt_exercise/test022_row_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test022_row_layout/Main.qml	7fc5ff4a918f8001
+55	273	7535183151802218	.qt/qml_imports/apptest022_row_layout_build.cmake	657bc3912c0260b4
+55	273	7535183151802218	C:/Users/Pavendhan V/Desktop/qt_exercise/test022_row_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/qml_imports/apptest022_row_layout_build.cmake	657bc3912c0260b4
+273	627	7535183153218939	apptest022_row_layout_autogen/timestamp	ecbc56275e828a3f
+273	627	7535183153218939	apptest022_row_layout_autogen/mocs_compilation.cpp	ecbc56275e828a3f
+273	627	7535183153218939	C:/Users/Pavendhan V/Desktop/qt_exercise/test022_row_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/apptest022_row_layout_autogen/timestamp	ecbc56275e828a3f
+273	627	7535183153218939	C:/Users/Pavendhan V/Desktop/qt_exercise/test022_row_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/apptest022_row_layout_autogen/mocs_compilation.cpp	ecbc56275e828a3f
+627	809	7535183156745581	meta_types/apptest022_row_layout_json_file_list.txt	d3020e0ee77cf010
+627	809	7535183156745581	meta_types/apptest022_row_layout_json_file_list.txt.timestamp	d3020e0ee77cf010
+627	809	7535183156745581	C:/Users/Pavendhan V/Desktop/qt_exercise/test022_row_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/meta_types/apptest022_row_layout_json_file_list.txt	d3020e0ee77cf010
+627	809	7535183156745581	C:/Users/Pavendhan V/Desktop/qt_exercise/test022_row_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/meta_types/apptest022_row_layout_json_file_list.txt.timestamp	d3020e0ee77cf010
+670	826	7535183157044733	.qt/rcc/qrc_apptest022_row_layout_raw_qml_0.cpp	d5cd91463a24d3b4
+670	826	7535183157044733	C:/Users/Pavendhan V/Desktop/qt_exercise/test022_row_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest022_row_layout_raw_qml_0.cpp	d5cd91463a24d3b4
+638	833	7535183157085232	.qt/rcc/qrc_qmake_test022_row_layout.cpp	b166d35d413e6b6
+638	833	7535183157085232	C:/Users/Pavendhan V/Desktop/qt_exercise/test022_row_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_qmake_test022_row_layout.cpp	b166d35d413e6b6
+653	968	7535183158303513	.rcc/qmlcache/apptest022_row_layout_qmlcache_loader.cpp	8707b2a321c9ff49
+653	968	7535183158303513	C:/Users/Pavendhan V/Desktop/qt_exercise/test022_row_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest022_row_layout_qmlcache_loader.cpp	8707b2a321c9ff49
+810	1022	7535183159266707	meta_types/qt6apptest022_row_layout_debug_metatypes.json.gen	8ebc3e1a99578a66
+810	1022	7535183159266707	meta_types/qt6apptest022_row_layout_debug_metatypes.json	8ebc3e1a99578a66
+810	1022	7535183159266707	C:/Users/Pavendhan V/Desktop/qt_exercise/test022_row_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/meta_types/qt6apptest022_row_layout_debug_metatypes.json.gen	8ebc3e1a99578a66
+810	1022	7535183159266707	C:/Users/Pavendhan V/Desktop/qt_exercise/test022_row_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/meta_types/qt6apptest022_row_layout_debug_metatypes.json	8ebc3e1a99578a66
+1022	1462	7535183162219443	apptest022_row_layout_qmltyperegistrations.cpp	db32fea3811685bf
+1022	1462	7535183162219443	test022_row_layout/apptest022_row_layout.qmltypes	db32fea3811685bf
+1022	1462	7535183162219443	C:/Users/Pavendhan V/Desktop/qt_exercise/test022_row_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/apptest022_row_layout_qmltyperegistrations.cpp	db32fea3811685bf
+1022	1462	7535183162219443	C:/Users/Pavendhan V/Desktop/qt_exercise/test022_row_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test022_row_layout/apptest022_row_layout.qmltypes	db32fea3811685bf
+1463	2228	7535183169157667	.rcc/qmlcache/apptest022_row_layout_Main_qml.cpp	3d8058976c204bfa
+1463	2228	7535183169157667	C:/Users/Pavendhan V/Desktop/qt_exercise/test022_row_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest022_row_layout_Main_qml.cpp	3d8058976c204bfa
+2228	3384	7535183171467828	CMakeFiles/apptest022_row_layout.dir/apptest022_row_layout_autogen/mocs_compilation.cpp.obj	e0e33929db9992f7
+2497	3487	7535183174157207	CMakeFiles/apptest022_row_layout.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_qmake_test022_row_layout.cpp.obj	2a478c87247d48ca
+3386	4303	7535183183046666	CMakeFiles/apptest022_row_layout.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest022_row_layout_raw_qml_0.cpp.obj	fab4a9996ab2f9bb
+2294	14108	7535183172114859	CMakeFiles/apptest022_row_layout.dir/apptest022_row_layout_qmltyperegistrations.cpp.obj	2b06cb03d69aeed9
+2690	14184	7535183176079258	CMakeFiles/apptest022_row_layout.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest022_row_layout_Main_qml.cpp.obj	31bac25339ebdb82
+2244	14723	7535183171627821	CMakeFiles/apptest022_row_layout.dir/main.cpp.obj	9be8a4a525c52da8
+2580	16027	7535183174987819	CMakeFiles/apptest022_row_layout.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest022_row_layout_qmlcache_loader.cpp.obj	54fc49bfb5e105dd
+16028	16951	7535183309462341	apptest022_row_layout.exe	5f1c93c9c1ecf8f1
+111	260	7535184076335479	test022_row_layout/Main.qml	7fc5ff4a918f8001
+111	260	7535184076335479	C:/Users/Pavendhan V/Desktop/qt_exercise/test022_row_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test022_row_layout/Main.qml	7fc5ff4a918f8001
+128	454	7535184078582523	.qt/qml_imports/apptest022_row_layout_build.cmake	657bc3912c0260b4
+128	454	7535184078582523	C:/Users/Pavendhan V/Desktop/qt_exercise/test022_row_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/qml_imports/apptest022_row_layout_build.cmake	657bc3912c0260b4
+470	592	7535184079857277	.qt/rcc/qrc_apptest022_row_layout_raw_qml_0.cpp	d5cd91463a24d3b4
+470	592	7535184079857277	C:/Users/Pavendhan V/Desktop/qt_exercise/test022_row_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest022_row_layout_raw_qml_0.cpp	d5cd91463a24d3b4
+456	815	7535184081874656	.rcc/qmlcache/apptest022_row_layout_Main_qml.cpp	3d8058976c204bfa
+456	815	7535184081874656	C:/Users/Pavendhan V/Desktop/qt_exercise/test022_row_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest022_row_layout_Main_qml.cpp	3d8058976c204bfa
+826	976	7535184082427227	CMakeFiles/apptest022_row_layout.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest022_row_layout_raw_qml_0.cpp.obj	fab4a9996ab2f9bb
+815	5271	7535184082327208	CMakeFiles/apptest022_row_layout.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest022_row_layout_Main_qml.cpp.obj	31bac25339ebdb82
+5272	5833	7535184126894671	apptest022_row_layout.exe	5f1c93c9c1ecf8f1

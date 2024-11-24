@@ -1,0 +1,10 @@
+-I
+C:/Users/Pavendhan V/Desktop/qt_exercise/test_021_color_animation/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug
+-I
+C:/Qt/6.7.1/mingw_64/./qml
+--resource
+C:/Users/Pavendhan V/Desktop/qt_exercise/test_021_color_animation/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/.qt/rcc/qmake_test_021_color_animation.qrc
+--resource
+C:/Users/Pavendhan V/Desktop/qt_exercise/test_021_color_animation/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/.qt/rcc/apptest_021_color_animation_raw_qml_0.qrc
+--module
+test_021_color_animation

@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-ed838a9ce537ba38575a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "tes024_repeater",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-78e81812d51d14b7131a.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-ca4e7772b3a95bafc11b.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-e89b6f7386be52bbd1cd.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-dd076564eceb61c77dc0.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apptes024_repeater::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apptes024_repeater-Debug-9ce07aa549c2c03ed807.json",
+					"name" : "apptes024_repeater",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apptes024_repeater_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apptes024_repeater_autogen-Debug-bfcfcb34292ca4cd2db6.json",
+					"name" : "apptes024_repeater_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apptes024_repeater_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apptes024_repeater_autogen_timestamp_deps-Debug-ba64eef3ed26229b9e69.json",
+					"name" : "apptes024_repeater_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apptes024_repeater_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apptes024_repeater_qmlimportscan-Debug-86df512e35e4a960ff59.json",
+					"name" : "apptes024_repeater_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apptes024_repeater_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apptes024_repeater_qmllint-Debug-8d8de2a42e22c3105bfe.json",
+					"name" : "apptes024_repeater_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apptes024_repeater_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apptes024_repeater_qmllint_json-Debug-2e053809824e2c54b357.json",
+					"name" : "apptes024_repeater_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apptes024_repeater_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apptes024_repeater_qmllint_module-Debug-bcbe83495a1702a69fd2.json",
+					"name" : "apptes024_repeater_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apptes024_repeater_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apptes024_repeater_qmltyperegistration-Debug-235820fe12ab3a0569f7.json",
+					"name" : "apptes024_repeater_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apptes024_repeater_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apptes024_repeater_tooling-Debug-36adea43933d1e93bd82.json",
+					"name" : "apptes024_repeater_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Pavendhan V/Desktop/qt_exercise/tes024_repeater/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug",
+		"source" : "C:/Users/Pavendhan V/Desktop/qt_exercise/tes024_repeater"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

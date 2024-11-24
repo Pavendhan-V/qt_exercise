@@ -1,0 +1,5 @@
+module test028_swip_view_control
+typeinfo apptest028_swip_view_control.qmltypes
+prefer :/test028_swip_view_control/
+Main 1.0 Main.qml
+

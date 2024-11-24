@@ -1,0 +1,5 @@
+module tes024_repeater
+typeinfo apptes024_repeater.qmltypes
+prefer :/tes024_repeater/
+Main 1.0 Main.qml
+

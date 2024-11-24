@@ -1,0 +1,5 @@
+module test027_split_view
+typeinfo apptest027_split_view.qmltypes
+prefer :/test027_split_view/
+Main 1.0 Main.qml
+

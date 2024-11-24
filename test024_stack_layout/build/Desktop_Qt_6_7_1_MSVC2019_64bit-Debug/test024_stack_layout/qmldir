@@ -1,0 +1,5 @@
+module test024_stack_layout
+typeinfo apptest024_stack_layout.qmltypes
+prefer :/test024_stack_layout/
+Main 1.0 Main.qml
+

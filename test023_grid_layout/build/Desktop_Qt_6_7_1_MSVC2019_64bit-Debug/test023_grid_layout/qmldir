@@ -1,0 +1,5 @@
+module test023_grid_layout
+typeinfo apptest023_grid_layout.qmltypes
+prefer :/test023_grid_layout/
+Main 1.0 Main.qml
+

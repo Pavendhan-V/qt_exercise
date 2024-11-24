@@ -1,0 +1,114 @@
+# ninja log v6
+60	194	7535191351089460	test023_grid_layout/Main.qml	b8a8d335b6d34214
+60	194	7535191351089460	C:/Users/Pavendhan V/Desktop/qt_exercise/test023_grid_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test023_grid_layout/Main.qml	b8a8d335b6d34214
+77	407	7535191353373413	.qt/qml_imports/apptest023_grid_layout_build.cmake	b7979fcf7a08266e
+77	407	7535191353373413	C:/Users/Pavendhan V/Desktop/qt_exercise/test023_grid_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/qml_imports/apptest023_grid_layout_build.cmake	b7979fcf7a08266e
+407	1134	7535191355838761	apptest023_grid_layout_autogen/timestamp	a2ff9d5b411535ca
+407	1134	7535191355838761	apptest023_grid_layout_autogen/mocs_compilation.cpp	a2ff9d5b411535ca
+407	1134	7535191355838761	C:/Users/Pavendhan V/Desktop/qt_exercise/test023_grid_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/apptest023_grid_layout_autogen/timestamp	a2ff9d5b411535ca
+407	1134	7535191355838761	C:/Users/Pavendhan V/Desktop/qt_exercise/test023_grid_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/apptest023_grid_layout_autogen/mocs_compilation.cpp	a2ff9d5b411535ca
+1138	1611	7535191364322853	meta_types/apptest023_grid_layout_json_file_list.txt	1ac2edc06f6e296
+1138	1611	7535191364322853	meta_types/apptest023_grid_layout_json_file_list.txt.timestamp	1ac2edc06f6e296
+1138	1611	7535191364322853	C:/Users/Pavendhan V/Desktop/qt_exercise/test023_grid_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/meta_types/apptest023_grid_layout_json_file_list.txt	1ac2edc06f6e296
+1138	1611	7535191364322853	C:/Users/Pavendhan V/Desktop/qt_exercise/test023_grid_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/meta_types/apptest023_grid_layout_json_file_list.txt.timestamp	1ac2edc06f6e296
+1176	1659	7535191364610360	.qt/rcc/qrc_qmake_test023_grid_layout.cpp	265879b453b3c435
+1176	1659	7535191364610360	C:/Users/Pavendhan V/Desktop/qt_exercise/test023_grid_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_qmake_test023_grid_layout.cpp	265879b453b3c435
+1209	1665	7535191365014112	.rcc/qmlcache/apptest023_grid_layout_qmlcache_loader.cpp	5959c87357ae09eb
+1209	1665	7535191365014112	C:/Users/Pavendhan V/Desktop/qt_exercise/test023_grid_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest023_grid_layout_qmlcache_loader.cpp	5959c87357ae09eb
+1241	1665	7535191365205114	.qt/rcc/qrc_apptest023_grid_layout_raw_qml_0.cpp	ddff853bf1191d10
+1241	1665	7535191365205114	C:/Users/Pavendhan V/Desktop/qt_exercise/test023_grid_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest023_grid_layout_raw_qml_0.cpp	ddff853bf1191d10
+1612	1850	7535191367789416	meta_types/qt6apptest023_grid_layout_debug_metatypes.json.gen	3f274df91b9907b0
+1612	1850	7535191367789416	meta_types/qt6apptest023_grid_layout_debug_metatypes.json	3f274df91b9907b0
+1612	1850	7535191367789416	C:/Users/Pavendhan V/Desktop/qt_exercise/test023_grid_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/meta_types/qt6apptest023_grid_layout_debug_metatypes.json.gen	3f274df91b9907b0
+1612	1850	7535191367789416	C:/Users/Pavendhan V/Desktop/qt_exercise/test023_grid_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/meta_types/qt6apptest023_grid_layout_debug_metatypes.json	3f274df91b9907b0
+1851	2244	7535191370229934	apptest023_grid_layout_qmltyperegistrations.cpp	229e53fc7f24d62d
+1851	2244	7535191370229934	test023_grid_layout/apptest023_grid_layout.qmltypes	229e53fc7f24d62d
+1851	2244	7535191370229934	C:/Users/Pavendhan V/Desktop/qt_exercise/test023_grid_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/apptest023_grid_layout_qmltyperegistrations.cpp	229e53fc7f24d62d
+1851	2244	7535191370229934	C:/Users/Pavendhan V/Desktop/qt_exercise/test023_grid_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test023_grid_layout/apptest023_grid_layout.qmltypes	229e53fc7f24d62d
+2244	2557	7535191374694369	.rcc/qmlcache/apptest023_grid_layout_Main_qml.cpp	5ee45f6a14e9bbe3
+2244	2557	7535191374694369	C:/Users/Pavendhan V/Desktop/qt_exercise/test023_grid_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest023_grid_layout_Main_qml.cpp	5ee45f6a14e9bbe3
+2557	2930	7535191375007869	CMakeFiles/apptest023_grid_layout.dir/apptest023_grid_layout_autogen/mocs_compilation.cpp.obj	8ba18456a235df08
+2585	3028	7535191375299737	CMakeFiles/apptest023_grid_layout.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_qmake_test023_grid_layout.cpp.obj	7945b8b11dec1466
+2932	3547	7535191378750152	CMakeFiles/apptest023_grid_layout.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest023_grid_layout_raw_qml_0.cpp.obj	eda78201dfe53718
+2576	10157	7535191375197666	CMakeFiles/apptest023_grid_layout.dir/apptest023_grid_layout_qmltyperegistrations.cpp.obj	f35c02c61d6be93f
+2629	10230	7535191375716281	CMakeFiles/apptest023_grid_layout.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest023_grid_layout_Main_qml.cpp.obj	9985cf0b33a8dd35
+2566	10528	7535191375097665	CMakeFiles/apptest023_grid_layout.dir/main.cpp.obj	41fb6272aa4958c0
+2596	11491	7535191375391850	CMakeFiles/apptest023_grid_layout.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest023_grid_layout_qmlcache_loader.cpp.obj	62d5814562bce700
+11491	12694	7535191464348686	apptest023_grid_layout.exe	6f48af8986b16ed0
+83	171	7535191833332061	test023_grid_layout/Main.qml	b8a8d335b6d34214
+83	171	7535191833332061	C:/Users/Pavendhan V/Desktop/qt_exercise/test023_grid_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test023_grid_layout/Main.qml	b8a8d335b6d34214
+96	312	7535191834837017	.qt/qml_imports/apptest023_grid_layout_build.cmake	b7979fcf7a08266e
+96	312	7535191834837017	C:/Users/Pavendhan V/Desktop/qt_exercise/test023_grid_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/qml_imports/apptest023_grid_layout_build.cmake	b7979fcf7a08266e
+325	443	7535191835934496	.qt/rcc/qrc_apptest023_grid_layout_raw_qml_0.cpp	ddff853bf1191d10
+325	443	7535191835934496	C:/Users/Pavendhan V/Desktop/qt_exercise/test023_grid_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest023_grid_layout_raw_qml_0.cpp	ddff853bf1191d10
+312	601	7535191837355936	.rcc/qmlcache/apptest023_grid_layout_Main_qml.cpp	5ee45f6a14e9bbe3
+312	601	7535191837355936	C:/Users/Pavendhan V/Desktop/qt_exercise/test023_grid_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest023_grid_layout_Main_qml.cpp	5ee45f6a14e9bbe3
+610	726	7535191837933440	CMakeFiles/apptest023_grid_layout.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest023_grid_layout_raw_qml_0.cpp.obj	eda78201dfe53718
+601	7627	7535191837843433	CMakeFiles/apptest023_grid_layout.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest023_grid_layout_Main_qml.cpp.obj	9985cf0b33a8dd35
+7627	9332	7535191908107354	apptest023_grid_layout.exe	6f48af8986b16ed0
+105	241	7535192284076199	test023_grid_layout/Main.qml	b8a8d335b6d34214
+105	241	7535192284076199	C:/Users/Pavendhan V/Desktop/qt_exercise/test023_grid_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test023_grid_layout/Main.qml	b8a8d335b6d34214
+122	404	7535192285715411	.qt/qml_imports/apptest023_grid_layout_build.cmake	b7979fcf7a08266e
+122	404	7535192285715411	C:/Users/Pavendhan V/Desktop/qt_exercise/test023_grid_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/qml_imports/apptest023_grid_layout_build.cmake	b7979fcf7a08266e
+425	545	7535192287099358	.qt/rcc/qrc_apptest023_grid_layout_raw_qml_0.cpp	ddff853bf1191d10
+425	545	7535192287099358	C:/Users/Pavendhan V/Desktop/qt_exercise/test023_grid_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest023_grid_layout_raw_qml_0.cpp	ddff853bf1191d10
+405	777	7535192289257837	.rcc/qmlcache/apptest023_grid_layout_Main_qml.cpp	5ee45f6a14e9bbe3
+405	777	7535192289257837	C:/Users/Pavendhan V/Desktop/qt_exercise/test023_grid_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest023_grid_layout_Main_qml.cpp	5ee45f6a14e9bbe3
+791	947	7535192289729444	CMakeFiles/apptest023_grid_layout.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest023_grid_layout_raw_qml_0.cpp.obj	eda78201dfe53718
+777	5037	7535192289599450	CMakeFiles/apptest023_grid_layout.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest023_grid_layout_Main_qml.cpp.obj	9985cf0b33a8dd35
+5037	5508	7535192332190245	apptest023_grid_layout.exe	6f48af8986b16ed0
+77	175	7535193012339922	test023_grid_layout/Main.qml	b8a8d335b6d34214
+77	175	7535193012339922	C:/Users/Pavendhan V/Desktop/qt_exercise/test023_grid_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test023_grid_layout/Main.qml	b8a8d335b6d34214
+90	305	7535193013700164	.qt/qml_imports/apptest023_grid_layout_build.cmake	b7979fcf7a08266e
+90	305	7535193013700164	C:/Users/Pavendhan V/Desktop/qt_exercise/test023_grid_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/qml_imports/apptest023_grid_layout_build.cmake	b7979fcf7a08266e
+317	408	7535193014735387	.qt/rcc/qrc_apptest023_grid_layout_raw_qml_0.cpp	ddff853bf1191d10
+317	408	7535193014735387	C:/Users/Pavendhan V/Desktop/qt_exercise/test023_grid_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest023_grid_layout_raw_qml_0.cpp	ddff853bf1191d10
+305	578	7535193016247490	.rcc/qmlcache/apptest023_grid_layout_Main_qml.cpp	5ee45f6a14e9bbe3
+305	578	7535193016247490	C:/Users/Pavendhan V/Desktop/qt_exercise/test023_grid_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest023_grid_layout_Main_qml.cpp	5ee45f6a14e9bbe3
+587	729	7535193016623291	CMakeFiles/apptest023_grid_layout.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest023_grid_layout_raw_qml_0.cpp.obj	eda78201dfe53718
+578	7007	7535193016533274	CMakeFiles/apptest023_grid_layout.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest023_grid_layout_Main_qml.cpp.obj	9985cf0b33a8dd35
+7007	7634	7535193080827856	apptest023_grid_layout.exe	6f48af8986b16ed0
+48	149	7535194027857888	test023_grid_layout/Main.qml	b8a8d335b6d34214
+48	149	7535194027857888	C:/Users/Pavendhan V/Desktop/qt_exercise/test023_grid_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test023_grid_layout/Main.qml	b8a8d335b6d34214
+60	285	7535194029371313	.qt/qml_imports/apptest023_grid_layout_build.cmake	b7979fcf7a08266e
+60	285	7535194029371313	C:/Users/Pavendhan V/Desktop/qt_exercise/test023_grid_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/qml_imports/apptest023_grid_layout_build.cmake	b7979fcf7a08266e
+298	390	7535194030389664	.qt/rcc/qrc_apptest023_grid_layout_raw_qml_0.cpp	ddff853bf1191d10
+298	390	7535194030389664	C:/Users/Pavendhan V/Desktop/qt_exercise/test023_grid_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest023_grid_layout_raw_qml_0.cpp	ddff853bf1191d10
+285	538	7535194031757116	.rcc/qmlcache/apptest023_grid_layout_Main_qml.cpp	5ee45f6a14e9bbe3
+285	538	7535194031757116	C:/Users/Pavendhan V/Desktop/qt_exercise/test023_grid_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest023_grid_layout_Main_qml.cpp	5ee45f6a14e9bbe3
+545	648	7535194032092628	CMakeFiles/apptest023_grid_layout.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest023_grid_layout_raw_qml_0.cpp.obj	eda78201dfe53718
+538	3874	7535194032022611	CMakeFiles/apptest023_grid_layout.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest023_grid_layout_Main_qml.cpp.obj	9985cf0b33a8dd35
+3874	4176	7535194065386084	apptest023_grid_layout.exe	6f48af8986b16ed0
+81	161	7535194502154788	test023_grid_layout/Main.qml	b8a8d335b6d34214
+81	161	7535194502154788	C:/Users/Pavendhan V/Desktop/qt_exercise/test023_grid_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test023_grid_layout/Main.qml	b8a8d335b6d34214
+94	313	7535194503674631	.qt/qml_imports/apptest023_grid_layout_build.cmake	b7979fcf7a08266e
+94	313	7535194503674631	C:/Users/Pavendhan V/Desktop/qt_exercise/test023_grid_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/qml_imports/apptest023_grid_layout_build.cmake	b7979fcf7a08266e
+328	419	7535194504691947	.qt/rcc/qrc_apptest023_grid_layout_raw_qml_0.cpp	ddff853bf1191d10
+328	419	7535194504691947	C:/Users/Pavendhan V/Desktop/qt_exercise/test023_grid_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest023_grid_layout_raw_qml_0.cpp	ddff853bf1191d10
+313	569	7535194506129413	.rcc/qmlcache/apptest023_grid_layout_Main_qml.cpp	5ee45f6a14e9bbe3
+313	569	7535194506129413	C:/Users/Pavendhan V/Desktop/qt_exercise/test023_grid_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest023_grid_layout_Main_qml.cpp	5ee45f6a14e9bbe3
+577	683	7535194506422636	CMakeFiles/apptest023_grid_layout.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest023_grid_layout_raw_qml_0.cpp.obj	eda78201dfe53718
+569	3524	7535194506342631	CMakeFiles/apptest023_grid_layout.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest023_grid_layout_Main_qml.cpp.obj	9985cf0b33a8dd35
+3524	4034	7535194535898566	apptest023_grid_layout.exe	6f48af8986b16ed0
+79	176	7535195135798879	test023_grid_layout/Main.qml	b8a8d335b6d34214
+79	176	7535195135798879	C:/Users/Pavendhan V/Desktop/qt_exercise/test023_grid_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test023_grid_layout/Main.qml	b8a8d335b6d34214
+91	303	7535195137166577	.qt/qml_imports/apptest023_grid_layout_build.cmake	b7979fcf7a08266e
+91	303	7535195137166577	C:/Users/Pavendhan V/Desktop/qt_exercise/test023_grid_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/qml_imports/apptest023_grid_layout_build.cmake	b7979fcf7a08266e
+317	407	7535195138190332	.qt/rcc/qrc_apptest023_grid_layout_raw_qml_0.cpp	ddff853bf1191d10
+317	407	7535195138190332	C:/Users/Pavendhan V/Desktop/qt_exercise/test023_grid_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest023_grid_layout_raw_qml_0.cpp	ddff853bf1191d10
+304	722	7535195140120474	.rcc/qmlcache/apptest023_grid_layout_Main_qml.cpp	5ee45f6a14e9bbe3
+304	722	7535195140120474	C:/Users/Pavendhan V/Desktop/qt_exercise/test023_grid_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest023_grid_layout_Main_qml.cpp	5ee45f6a14e9bbe3
+731	870	7535195141477101	CMakeFiles/apptest023_grid_layout.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest023_grid_layout_raw_qml_0.cpp.obj	eda78201dfe53718
+722	3885	7535195141454192	CMakeFiles/apptest023_grid_layout.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest023_grid_layout_Main_qml.cpp.obj	9985cf0b33a8dd35
+3885	4187	7535195173085657	apptest023_grid_layout.exe	6f48af8986b16ed0
+71	262	7535217690545875	test023_grid_layout/Main.qml	b8a8d335b6d34214
+71	262	7535217690545875	C:/Users/Pavendhan V/Desktop/qt_exercise/test023_grid_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test023_grid_layout/Main.qml	b8a8d335b6d34214
+112	435	7535217692361594	.qt/qml_imports/apptest023_grid_layout_build.cmake	b7979fcf7a08266e
+112	435	7535217692361594	C:/Users/Pavendhan V/Desktop/qt_exercise/test023_grid_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/qml_imports/apptest023_grid_layout_build.cmake	b7979fcf7a08266e
+452	614	7535217693993355	.qt/rcc/qrc_apptest023_grid_layout_raw_qml_0.cpp	ddff853bf1191d10
+452	614	7535217693993355	C:/Users/Pavendhan V/Desktop/qt_exercise/test023_grid_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest023_grid_layout_raw_qml_0.cpp	ddff853bf1191d10
+435	837	7535217696164288	.rcc/qmlcache/apptest023_grid_layout_Main_qml.cpp	5ee45f6a14e9bbe3
+435	837	7535217696164288	C:/Users/Pavendhan V/Desktop/qt_exercise/test023_grid_layout/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest023_grid_layout_Main_qml.cpp	5ee45f6a14e9bbe3
+852	2379	7535217696692371	CMakeFiles/apptest023_grid_layout.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest023_grid_layout_raw_qml_0.cpp.obj	eda78201dfe53718
+837	6265	7535217696542339	CMakeFiles/apptest023_grid_layout.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest023_grid_layout_Main_qml.cpp.obj	9985cf0b33a8dd35
+6265	6738	7535217750825524	apptest023_grid_layout.exe	6f48af8986b16ed0

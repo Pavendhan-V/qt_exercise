@@ -1,0 +1,5 @@
+module test025_scroll_view
+typeinfo apptest025_scroll_view.qmltypes
+prefer :/test025_scroll_view/
+Main 1.0 Main.qml
+

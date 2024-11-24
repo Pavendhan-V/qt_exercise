@@ -1,0 +1,10 @@
+-I
+C:/Users/Pavendhan V/Desktop/qt_exercise/test026_split_view/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug
+-I
+C:/Qt/6.7.1/msvc2019_64/./qml
+--resource
+C:/Users/Pavendhan V/Desktop/qt_exercise/test026_split_view/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qmake_test026_split_view.qrc
+--resource
+C:/Users/Pavendhan V/Desktop/qt_exercise/test026_split_view/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/apptest026_split_view_raw_qml_0.qrc
+--module
+test026_split_view
