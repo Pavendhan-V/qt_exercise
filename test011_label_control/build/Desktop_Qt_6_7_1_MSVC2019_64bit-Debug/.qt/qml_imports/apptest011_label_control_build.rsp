@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/Pavendhan V/Desktop/qt_exercise/test011_label_control
+-cmake-output
+-output-file
+C:/Users/Pavendhan V/Desktop/qt_exercise/test011_label_control/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/qml_imports/apptest011_label_control_build.cmake
+-importPath
+C:/Users/Pavendhan V/Desktop/qt_exercise/test011_label_control/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test011_label_control
+-importPath
+C:/Users/Pavendhan V/Desktop/qt_exercise/test011_label_control/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug
+-importPath
+C:/Qt/6.7.1/msvc2019_64/./qml
+-qrcFiles
+C:/Users/Pavendhan V/Desktop/qt_exercise/test011_label_control/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qmake_test011_label_control.qrc
+C:/Users/Pavendhan V/Desktop/qt_exercise/test011_label_control/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/apptest011_label_control_raw_qml_0.qrc

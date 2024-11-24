@@ -1,0 +1,5 @@
+module test018_path_animation
+typeinfo apptest018_path_animation.qmltypes
+prefer :/test018_path_animation/
+Main 1.0 Main.qml
+

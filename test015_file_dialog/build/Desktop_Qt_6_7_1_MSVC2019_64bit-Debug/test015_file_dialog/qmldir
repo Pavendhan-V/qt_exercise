@@ -1,0 +1,5 @@
+module test015_file_dialog
+typeinfo apptest015_file_dialog.qmltypes
+prefer :/test015_file_dialog/
+Main 1.0 Main.qml
+

@@ -1,0 +1,5 @@
+module test012_messagebox
+typeinfo apptest012_messagebox.qmltypes
+prefer :/test012_messagebox/
+Main 1.0 Main.qml
+

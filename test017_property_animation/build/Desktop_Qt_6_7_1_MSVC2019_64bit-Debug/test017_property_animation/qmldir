@@ -1,0 +1,5 @@
+module test017_property_animation
+typeinfo apptest017_property_animation.qmltypes
+prefer :/test017_property_animation/
+Main 1.0 Main.qml
+

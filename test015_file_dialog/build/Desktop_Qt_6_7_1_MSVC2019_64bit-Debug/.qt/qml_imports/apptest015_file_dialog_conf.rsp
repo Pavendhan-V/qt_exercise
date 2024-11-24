@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/Pavendhan V/Desktop/qt_exercise/test015_file_dialog
+-cmake-output
+-output-file
+C:/Users/Pavendhan V/Desktop/qt_exercise/test015_file_dialog/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/qml_imports/apptest015_file_dialog_conf.cmake
+-importPath
+C:/Users/Pavendhan V/Desktop/qt_exercise/test015_file_dialog/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test015_file_dialog
+-importPath
+C:/Users/Pavendhan V/Desktop/qt_exercise/test015_file_dialog/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug
+-importPath
+C:/Qt/6.7.1/msvc2019_64/./qml
+-qrcFiles
+C:/Users/Pavendhan V/Desktop/qt_exercise/test015_file_dialog/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qmake_test015_file_dialog.qrc
+C:/Users/Pavendhan V/Desktop/qt_exercise/test015_file_dialog/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/apptest015_file_dialog_raw_qml_0.qrc

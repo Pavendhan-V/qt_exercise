@@ -1,0 +1,5 @@
+module test014_color_dialog
+typeinfo apptest014_color_dialog.qmltypes
+prefer :/test014_color_dialog/
+Main 1.0 Main.qml
+

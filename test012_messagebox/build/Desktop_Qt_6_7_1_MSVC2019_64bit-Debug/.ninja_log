@@ -1,0 +1,59 @@
+# ninja log v6
+56	441	7534784231411037	test012_messagebox/Main.qml	ba72a3c3c6c407d3
+56	441	7534784231411037	C:/Users/Pavendhan V/Desktop/qt_exercise/test012_messagebox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test012_messagebox/Main.qml	ba72a3c3c6c407d3
+82	4576	7534784263155676	.qt/qml_imports/apptest012_messagebox_build.cmake	90096f6cc6216bcb
+82	4576	7534784263155676	C:/Users/Pavendhan V/Desktop/qt_exercise/test012_messagebox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/qml_imports/apptest012_messagebox_build.cmake	90096f6cc6216bcb
+4576	6254	7534784282297807	apptest012_messagebox_autogen/timestamp	bbe6f0ac17b18467
+4576	6254	7534784282297807	apptest012_messagebox_autogen/mocs_compilation.cpp	bbe6f0ac17b18467
+4576	6254	7534784282297807	C:/Users/Pavendhan V/Desktop/qt_exercise/test012_messagebox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/apptest012_messagebox_autogen/timestamp	bbe6f0ac17b18467
+4576	6254	7534784282297807	C:/Users/Pavendhan V/Desktop/qt_exercise/test012_messagebox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/apptest012_messagebox_autogen/mocs_compilation.cpp	bbe6f0ac17b18467
+6289	6839	7534784295146336	.qt/rcc/qrc_qmake_test012_messagebox.cpp	430dd73dc9d704ae
+6289	6839	7534784295146336	C:/Users/Pavendhan V/Desktop/qt_exercise/test012_messagebox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_qmake_test012_messagebox.cpp	430dd73dc9d704ae
+6255	6956	7534784296306747	meta_types/apptest012_messagebox_json_file_list.txt	b3c87207dc06838c
+6255	6956	7534784296306747	meta_types/apptest012_messagebox_json_file_list.txt.timestamp	b3c87207dc06838c
+6255	6956	7534784296306747	C:/Users/Pavendhan V/Desktop/qt_exercise/test012_messagebox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/meta_types/apptest012_messagebox_json_file_list.txt	b3c87207dc06838c
+6255	6956	7534784296306747	C:/Users/Pavendhan V/Desktop/qt_exercise/test012_messagebox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/meta_types/apptest012_messagebox_json_file_list.txt.timestamp	b3c87207dc06838c
+6373	7047	7534784297350723	.qt/rcc/qrc_apptest012_messagebox_raw_qml_0.cpp	e663322555e9838e
+6373	7047	7534784297350723	C:/Users/Pavendhan V/Desktop/qt_exercise/test012_messagebox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest012_messagebox_raw_qml_0.cpp	e663322555e9838e
+6328	7417	7534784299835254	.rcc/qmlcache/apptest012_messagebox_qmlcache_loader.cpp	bb112ba1dcad657e
+6328	7417	7534784299835254	C:/Users/Pavendhan V/Desktop/qt_exercise/test012_messagebox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest012_messagebox_qmlcache_loader.cpp	bb112ba1dcad657e
+6956	7471	7534784302653078	meta_types/qt6apptest012_messagebox_debug_metatypes.json.gen	5b7d4e8f2c666908
+6956	7471	7534784302653078	meta_types/qt6apptest012_messagebox_debug_metatypes.json	5b7d4e8f2c666908
+6956	7471	7534784302653078	C:/Users/Pavendhan V/Desktop/qt_exercise/test012_messagebox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/meta_types/qt6apptest012_messagebox_debug_metatypes.json.gen	5b7d4e8f2c666908
+6956	7471	7534784302653078	C:/Users/Pavendhan V/Desktop/qt_exercise/test012_messagebox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/meta_types/qt6apptest012_messagebox_debug_metatypes.json	5b7d4e8f2c666908
+7472	8073	7534784306271013	apptest012_messagebox_qmltyperegistrations.cpp	4ba7b207a7de492e
+7472	8073	7534784306271013	test012_messagebox/apptest012_messagebox.qmltypes	4ba7b207a7de492e
+7472	8073	7534784306271013	C:/Users/Pavendhan V/Desktop/qt_exercise/test012_messagebox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/apptest012_messagebox_qmltyperegistrations.cpp	4ba7b207a7de492e
+7472	8073	7534784306271013	C:/Users/Pavendhan V/Desktop/qt_exercise/test012_messagebox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test012_messagebox/apptest012_messagebox.qmltypes	4ba7b207a7de492e
+8074	8519	7534784313125542	.rcc/qmlcache/apptest012_messagebox_Main_qml.cpp	aa0eb7e8a5e37b5c
+8074	8519	7534784313125542	C:/Users/Pavendhan V/Desktop/qt_exercise/test012_messagebox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest012_messagebox_Main_qml.cpp	aa0eb7e8a5e37b5c
+8519	8891	7534784313455953	CMakeFiles/apptest012_messagebox.dir/apptest012_messagebox_autogen/mocs_compilation.cpp.obj	f6613c97667a052a
+8572	8950	7534784313984513	CMakeFiles/apptest012_messagebox.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_qmake_test012_messagebox.cpp.obj	19fcf533d2c23e00
+8898	9250	7534784317237573	CMakeFiles/apptest012_messagebox.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest012_messagebox_raw_qml_0.cpp.obj	18a66d2c3fc0cf69
+8551	15473	7534784313769649	CMakeFiles/apptest012_messagebox.dir/apptest012_messagebox_qmltyperegistrations.cpp.obj	47d29cc11911d366
+8608	15577	7534784314338174	CMakeFiles/apptest012_messagebox.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest012_messagebox_Main_qml.cpp.obj	5be67cdb0f7108fe
+8533	15964	7534784313585985	CMakeFiles/apptest012_messagebox.dir/main.cpp.obj	34943db655068203
+8590	16766	7534784314156331	CMakeFiles/apptest012_messagebox.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest012_messagebox_qmlcache_loader.cpp.obj	3fbcbcce77120337
+16766	18072	7534784395918720	apptest012_messagebox.exe	39c31fa75c3523ad
+129	261	7534785555964721	test012_messagebox/Main.qml	ba72a3c3c6c407d3
+129	261	7534785555964721	C:/Users/Pavendhan V/Desktop/qt_exercise/test012_messagebox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test012_messagebox/Main.qml	ba72a3c3c6c407d3
+145	961	7534785562313570	.qt/qml_imports/apptest012_messagebox_build.cmake	90096f6cc6216bcb
+145	961	7534785562313570	C:/Users/Pavendhan V/Desktop/qt_exercise/test012_messagebox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/qml_imports/apptest012_messagebox_build.cmake	90096f6cc6216bcb
+982	1362	7534785566500802	.qt/rcc/qrc_apptest012_messagebox_raw_qml_0.cpp	e663322555e9838e
+982	1362	7534785566500802	C:/Users/Pavendhan V/Desktop/qt_exercise/test012_messagebox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest012_messagebox_raw_qml_0.cpp	e663322555e9838e
+961	1947	7534785572296143	.rcc/qmlcache/apptest012_messagebox_Main_qml.cpp	aa0eb7e8a5e37b5c
+961	1947	7534785572296143	C:/Users/Pavendhan V/Desktop/qt_exercise/test012_messagebox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest012_messagebox_Main_qml.cpp	aa0eb7e8a5e37b5c
+1964	2279	7534785573340755	CMakeFiles/apptest012_messagebox.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest012_messagebox_raw_qml_0.cpp.obj	18a66d2c3fc0cf69
+1947	6998	7534785573170734	CMakeFiles/apptest012_messagebox.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest012_messagebox_Main_qml.cpp.obj	5be67cdb0f7108fe
+6999	7412	7534785623682427	apptest012_messagebox.exe	39c31fa75c3523ad
+119	212	7534785910369226	test012_messagebox/Main.qml	ba72a3c3c6c407d3
+119	212	7534785910369226	C:/Users/Pavendhan V/Desktop/qt_exercise/test012_messagebox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test012_messagebox/Main.qml	ba72a3c3c6c407d3
+132	520	7534785913518191	.qt/qml_imports/apptest012_messagebox_build.cmake	90096f6cc6216bcb
+132	520	7534785913518191	C:/Users/Pavendhan V/Desktop/qt_exercise/test012_messagebox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/qml_imports/apptest012_messagebox_build.cmake	90096f6cc6216bcb
+537	640	7534785914671182	.qt/rcc/qrc_apptest012_messagebox_raw_qml_0.cpp	e663322555e9838e
+537	640	7534785914671182	C:/Users/Pavendhan V/Desktop/qt_exercise/test012_messagebox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest012_messagebox_raw_qml_0.cpp	e663322555e9838e
+521	954	7534785916710821	.rcc/qmlcache/apptest012_messagebox_Main_qml.cpp	aa0eb7e8a5e37b5c
+521	954	7534785916710821	C:/Users/Pavendhan V/Desktop/qt_exercise/test012_messagebox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest012_messagebox_Main_qml.cpp	aa0eb7e8a5e37b5c
+968	1314	7534785918125946	CMakeFiles/apptest012_messagebox.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qrc_apptest012_messagebox_raw_qml_0.cpp.obj	18a66d2c3fc0cf69
+955	7052	7534785917995955	CMakeFiles/apptest012_messagebox.dir/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.rcc/qmlcache/apptest012_messagebox_Main_qml.cpp.obj	5be67cdb0f7108fe
+7052	7413	7534785978967698	apptest012_messagebox.exe	39c31fa75c3523ad

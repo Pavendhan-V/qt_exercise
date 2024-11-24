@@ -1,0 +1,5 @@
+module test013_font_dialog
+typeinfo apptest013_font_dialog.qmltypes
+prefer :/test013_font_dialog/
+Main 1.0 Main.qml
+

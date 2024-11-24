@@ -1,0 +1,5 @@
+module test020_parallel_animation
+typeinfo apptest020_parallel_animation.qmltypes
+prefer :/test020_parallel_animation/
+Main 1.0 Main.qml
+

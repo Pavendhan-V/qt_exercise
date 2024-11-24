@@ -1,0 +1,5 @@
+module test011_label_control
+typeinfo apptest011_label_control.qmltypes
+prefer :/test011_label_control/
+Main 1.0 Main.qml
+

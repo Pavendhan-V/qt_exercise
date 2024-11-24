@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/Pavendhan V/Desktop/qt_exercise/test017_property_animation
+-cmake-output
+-output-file
+C:/Users/Pavendhan V/Desktop/qt_exercise/test017_property_animation/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/qml_imports/apptest017_property_animation_build.cmake
+-importPath
+C:/Users/Pavendhan V/Desktop/qt_exercise/test017_property_animation/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/test017_property_animation
+-importPath
+C:/Users/Pavendhan V/Desktop/qt_exercise/test017_property_animation/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug
+-importPath
+C:/Qt/6.7.1/msvc2019_64/./qml
+-qrcFiles
+C:/Users/Pavendhan V/Desktop/qt_exercise/test017_property_animation/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qmake_test017_property_animation.qrc
+C:/Users/Pavendhan V/Desktop/qt_exercise/test017_property_animation/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/apptest017_property_animation_raw_qml_0.qrc

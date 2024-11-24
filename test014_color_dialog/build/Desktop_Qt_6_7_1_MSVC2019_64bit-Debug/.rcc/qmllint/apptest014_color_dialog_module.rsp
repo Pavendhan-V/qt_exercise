@@ -1,0 +1,10 @@
+-I
+C:/Users/Pavendhan V/Desktop/qt_exercise/test014_color_dialog/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug
+-I
+C:/Qt/6.7.1/msvc2019_64/./qml
+--resource
+C:/Users/Pavendhan V/Desktop/qt_exercise/test014_color_dialog/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/qmake_test014_color_dialog.qrc
+--resource
+C:/Users/Pavendhan V/Desktop/qt_exercise/test014_color_dialog/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/.qt/rcc/apptest014_color_dialog_raw_qml_0.qrc
+--module
+test014_color_dialog

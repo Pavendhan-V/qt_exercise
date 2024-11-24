@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_apptest012_messagebox_FILE C:/Users/Pavendhan V/Desktop/qt_exercise/test012_messagebox/build/Desktop_Qt_6_7_1_MSVC2019_64bit-Debug/apptest012_messagebox.exe)
+set(__QT_DEPLOY_TARGET_apptest012_messagebox_RUNTIME_DLLS C:/Qt/6.7.1/msvc2019_64/bin/Qt6Quickd.dll;C:/Qt/6.7.1/msvc2019_64/bin/Qt6QmlModelsd.dll;C:/Qt/6.7.1/msvc2019_64/bin/Qt6Qmld.dll;C:/Qt/6.7.1/msvc2019_64/bin/Qt6Networkd.dll;C:/Qt/6.7.1/msvc2019_64/bin/Qt6OpenGLd.dll;C:/Qt/6.7.1/msvc2019_64/bin/Qt6Guid.dll;C:/Qt/6.7.1/msvc2019_64/bin/Qt6Cored.dll)
